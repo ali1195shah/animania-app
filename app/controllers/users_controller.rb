@@ -32,7 +32,7 @@ class UsersController < ApplicationController
 
     def update
         @user.update(user_params)
-        redirect_to @user
+        redirect_to genres_path
     end
 
 

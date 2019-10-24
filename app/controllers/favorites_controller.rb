@@ -27,12 +27,13 @@ class FavoritesController < ApplicationController
     end
 
     def create
+        # byebug
         @user = @current_user
         @moment_id
         @moments = Moment.all
         Favorite.create(fav_params)
 
-        redirect_to genres_path
+        redirect_to favorites_path
 
         # merged_params = fav_params.merge(user_id: @current_user.id)
         # favorite = Favorite.create(merged_params)
@@ -45,7 +46,9 @@ class FavoritesController < ApplicationController
     end
 
     def destroy
-        
+        @favorite = Favorite.find(params[:id])
+        @favorite.destroy
+        redirect_to '/favorites'
     end
 
     private

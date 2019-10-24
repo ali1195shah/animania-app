@@ -1,7 +1,8 @@
-<p>Favorite Index Page</p>
+<p><%= @current_user.username%>'s Favorite Anime Moments</p>
 
 
-<% @user.favorites.each do |v|%>
-    <%=Moment.find(v.moment_id).name%>
+<% @current_user.favorites.each do |v|%>
+    <%= link_to Moment.find(v.moment_id).name, moment_path(v.moment_id)%>
+    <%= button_to "remove", "/favorites/#{v.id}" , method: :delete %>
     <br>
 <% end %>
