@@ -1,0 +1,10 @@
+<p>Characters Index Page</p>
+
+<ul class="list-group">
+<%@characters.each do |c|%>
+<li class="list-group-item"><%=link_to c.name, character_path(c)%></li>
+<% end %>
+</ul>
+
+<%# <ul class="list-group">
+<li class="list-group-item"><%=link_to c.name, character_path(c)%>

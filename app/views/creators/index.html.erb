@@ -1,0 +1,9 @@
+<p>Creator Index Page</p>
+<ul class="list-group">
+    <%@creators.each.uniq do |c|%>
+        <li class="list-group-item"><%=link_to c.name, creator_path(c)%></li>
+    <% end %>
+</ul>
+
+<%# <ul class="list-group">
+<li class="list-group-item"><%=link_to c.name, creator_path(c)%>

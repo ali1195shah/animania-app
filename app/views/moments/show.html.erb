@@ -1,0 +1,17 @@
+<p>Moment Show Page</p>
+<%=@moment.name%>
+<br>
+<iframe width="853" height="480" src=<%="#{@moment.code}"%> frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+
+<%=form_for Favorite.new do |f|%>
+
+<%=f.hidden_field :user_id, :value => @current_user.id%>
+<%=f.hidden_field :moment_id, :value => @moment.id%>
+<%=f.submit "Add to Favorite!"%>
+
+<% end %>
+
+
+<%= link_to 'Go Back', characters_path(character_url)%>

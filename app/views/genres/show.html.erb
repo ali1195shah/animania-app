@@ -1,0 +1,8 @@
+<p>All <%=@genre.name%> Animes</p>
+
+<ul>
+    <%@genre.animes.each do |a|%>
+        <%=link_to a.name, anime_path(a)%>
+        <br>
+    <% end %>
+</ul>

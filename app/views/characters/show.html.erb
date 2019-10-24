@@ -1,0 +1,16 @@
+<p>Character Show Page</p>
+
+<p>wiki of <%=@character.name%></p>
+<br>
+<%=@character.bio%>
+
+
+<p>Here are the Moments for <%=@character.name%></p>
+<ul>
+<%@character.moments.each do |m|%>
+    <li>
+        <%=link_to m.name, moment_path(m)%>
+    </li>
+<% end %>
+
+</ul>

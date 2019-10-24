@@ -1,0 +1,2 @@
+class GasController < ApplicationController
+end

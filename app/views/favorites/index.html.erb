@@ -1,0 +1,7 @@
+<p>Favorite Index Page</p>
+
+
+<% @user.favorites.each do |v|%>
+    <%=Moment.find(v.moment_id).name%>
+    <br>
+<% end %>
