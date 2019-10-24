@@ -490,124 +490,225 @@ char156 = Character.create(name: "Hatsuse Izuna", bio: "Hatsuse Izuna (初瀬 �
 char157 = Character.create(name: "Tet", bio: "Tet (テト, Teto) is the One True God and resides in a king chess piece. He assumed the title after the eternal war which he won after he obtained the Star Cup before any of the other gods and surpassed their strength despite not participating in the war at all. Tet does not belong to any of the 16 races although the closest affiliation to him would be Imanity. After both Shiro and Sora defeated him in a game of Internet chess, he summoned the siblings to Disboard, under the guise of saving Imanity. To challenge Tet for the title of the One True God, one must collect all pieces of different chess from 16 races. This means that, under the Ten Oaths, one must defeat or unite all 16 races before being able to play against him.
 ", anime: a16)
 
-char161 = Character.create(name: "Spike Spiegel", bio: "", anime: a17)
-char162 = Character.create(name: "Faye Valenine", bio: "", anime: a17)
-char163 = Character.create(name: "Jet Black", bio: "", anime: a17)
-char164 = Character.create(name: "Edward Wang", bio: "", anime: a17)
+char161 = Character.create(name: "Spike Spiegel", bio: "Spike Spiegel (スパイク・スピーゲル Supaiku Supīgeru?) is a former member of the Red Dragon Crime Syndicate and later bounty hunter, along with Jet Black on the Bebop. His ship was the Swordfish II.
+", anime: a17)
+char162 = Character.create(name: "Faye Valenine", bio: "Faye Valentine (フェイ・ヴァレンタイン Fei Varentain?) is a wanted bounty head and a member of the bounty hunting crew aboard the Bebop.
+", anime: a17)
+char163 = Character.create(name: "Jet Black", bio: "Jet Black (ジェット・ブラック Jetto Burakku?) is an officer of the ISSP and later bounty hunter. He partnered with Fad until losing his arm in the mid-2060s. He then captained the Bebop and led a bounty-hunting crew including Spike Spiegel, Faye Valentine, and Edward.
+", anime: a17)
+char164 = Character.create(name: "Edward Wang", bio: "Edward Wong Hau Pepelu Tivruski IV (エドワード・ウォン・ハウ・ペペル・チブルスキー4世 Edowādo Won Hau Peperu Chiburusukī 4-sei?), born Françoise Appledelhi and colloquially known as Radical Edward, was a child prodigy skilled in hacking originally from Earth. Her father was the cartographer Mr. Appledelhi.
+", anime: a17)
 
-char171 = Character.create(name: "Mugen", bio: "", anime: a18)
-char172 = Character.create(name: "Jin", bio: "", anime: a18)
-char173 = Character.create(name: "Fuu", bio: "", anime: a18)
+char171 = Character.create(name: "Mugen", bio: "Mugen (無限, Infinity) is one of the main male protagonists of Samurai Champloo along with Jin. Both Mugen and Jin accompany Fuu in her search for 'the samurai who smells of sunflowers.' Mugen serves as a foil to Jin in terms of personality and disposition. His fighting style is characterized as being reckless and erratic.
+", anime: a18)
+char172 = Character.create(name: "Jin", bio: "Jin (仁, Benevolence) is one of the main male protagonists of Samurai Champloo and one of Fuu's two bodyguards, along with Mugen. He is a former student of kenjutsu who, after killing his own master in self-defense, fled and eventually became involved with Fuu and Mugen.
+", anime: a18)
+char173 = Character.create(name: "Fuu", bio: "Fuu (フウ, Tanagers) is the tritagonist and leading lady of Samurai Champloo. Following a series of circumstances, she tricks Mugen and Jin into accompanying her into her journey in finding the 'Sunflower Samurai'. She likes meddling into the business of other people, which is also the reason why she was able to get Jin and Mugen to come with her. Her full name is Fuu Kasami (Kasami Fuu 香澄 フウ).
+", anime: a18)
 
-char181 = Character.create(name: "Sakuragi Hanamichi", bio: "", anime: a19)
-char182 = Character.create(name: "Rukawa Kaede", bio: "", anime: a19)
-char183 = Character.create(name: "Akagi Takenori", bio: "", anime: a19)
-char184 = Character.create(name: "Miyagi Ryota", bio: "", anime: a19)
-char185 = Character.create(name: "Hisashi Mitsui", bio: "", anime: a19)
+char181 = Character.create(name: "Sakuragi Hanamichi", bio: "Hanamichi Sakuragi (桜木 花道 Sakuragi Hanamichi) is the main protagonist of the Slam Dunk series. At the beginning of the series, Sakuragi was a slacker, good for nothing but fighting delinquent, and leader of the feared 'Sakuragi's Gang' (Hanamichi's Army in the English Dub), consisting of his four friends Yohei Mito, Yuji Ohkusu, Chuichirou Noma and Nozomi Takamiya. Sakuragi was reluctant to join the team at first because he had no previous background in any sports and thought that basketball was game for kids and losers. Sakuragi's quest for love is nothing but humiliating. He is always trying to ask girls out, but is rejected constantly, the fiftieth rejection occurring at the start of the series. He then met Haruko Akagi, a friendly basketball fangirl, whom he fell in love with, immediately. Haruko's encouragement led Sakuragi to join the Shohoku basketball team. Despite his hot temper, he proves to be a natural athlete with great potential, even though he only joins the team in order to impress Haruko. However, as a complete beginner, he is not able to keep up with the rest of the team at first, despite his physical attributes (great height, athleticism, stamina, speed and leaping ability). With just four months, he became a fully realized basketball player and is considered a player that Shohoku cannot afford to lose. Sakuragi later realizes that his love for the sports equals his crush on Haruko. He finds a bitter rival in Kaede Rukawa, who is also on the basketball team. Haruko's love for Rukawa makes Sakuragi jealous, resulting in mocking or infighting. Ironically, Rukawa doesn't acknowledge Haruko's crush on him.
+", anime: a19)
+char182 = Character.create(name: "Rukawa Kaede", bio: "Kaede Rukawa (流川 楓 Rukawa Kaede) is in many ways, the opposite of Hanamichi Sakuragi: attractive to girls, skilled at basketball, cold, and unfeeling. The only traits they share are that they are good fighters and not academically inclined.
+", anime: a19)
+char183 = Character.create(name: "Akagi Takenori", bio: "Takenori Akagi (赤木 剛憲 Akagi Takenori) is the Captain of the Shohoku basketball team and Haruko Akagi's older brother. Despite not thinking too much of Hanamichi Sakuragi at first (who addresses him as 'Gori' for gorilla due to his immense physical presence), he actually realizes Sakuragi's potential as a basketball player. Serious and disciplined, Akagi's dream is to lead Shohoku to the National Championship. His determination is shown in the match against Kainan, where he played on despite a serious injury to his ankle. Akagi considers Jun Uozumi of Ryonan to be his rival, though their rivalry is not antagonistic; instead, there is respect that borders on friendship.
+", anime: a19)
+char184 = Character.create(name: "Miyagi Ryota", bio: "Ryota Miyagi (宮城 リョータ Miyagi Ryōta) is Sakuragi's closest friend on the team. After an initial misunderstanding that caused conflict between them (he was fighting Mitsui when Sakuragi and Ayako came around, and he thought she was dating him), both found comradeship in the fact that they had both been unlucky in love, although Miyagi, having only been rejected 10 times, still falls short of Sakuragi's record who was rejected 50 times.
+", anime: a19)
+char185 = Character.create(name: "Hisashi Mitsui", bio: "Hisashi Mitsui (三井 寿Mitsui Hisashi?) is the Shooting Guard of the Shohoku Basketball Team. Though he was on hiatus due to his knee injury, he still has the skills to put the team on a win. Despite having the opportunity to join more prestigious high schools like Ryonan, he choose to go to Shohoku because of Coach Mitsuyoshi Anzai. Anzai had given him the courage to win in the Junior High tournament by encouraging him during the last seconds of the match. However, an injury to his left knee in a training session in his first year at Shohoku interrupted his basketball career. An imprudent early return to the court reinjured the knee more severely, leading to a basketball hiatus of over a year.
+", anime: a19)
 
-char191 = Character.create(name: "Lulouch Lamperouge", bio: "", anime: a20)
-char192 = Character.create(name: "C.C.", bio: "", anime: a20)
-char193 = Character.create(name: "Suzaku Kururugi", bio: "", anime: a20)
-char194 = Character.create(name: "Kallen Stadtfeld", bio: "", anime: a20)
-char195 = Character.create(name: "Nunnally Lamperouge", bio: "", anime: a20)
+char191 = Character.create(name: "Lulouch Lamperouge", bio: "Lelouch vi Britannia (ルルーシュ・ヴィ・ブリタニア, Rurūshu vui Buritania) was the protagonist of Code Geass: Lelouch of the Rebellion and Code Geass: Lelouch of the Rebellion R2, 17 years old (18 at R2). After he was exiled he used the alias, Lelouch Lamperouge (ルルーシュ・ランペルージ, Rurūshu Ranperūji). He was the Eleventh Prince of the Holy Britannian Empire and the son of the 98th Emperor of Britannia, Charles zi Britannia. He was also the leader of the Black Knights and the real identity of Zero. He is voiced by Jun Fukuyama, while his child self is voiced by Sayaka Ohara. His English dub voice is provided by Johnny Yong Bosch with Michelle Ruff doing Lelouch's child voice. He was chosen the most popular male character of 2006, 2007 and 2008 at Animage magazine's annual Anime Grand Prix. His Seiyū Jun Fukuyama also won the 'Best Actor in a Leading Role' award for his portrayal of the character at the first Seiyū Awards in 2007.
+", anime: a20)
+char192 = Character.create(name: "C.C.", bio: "C.C. (シー・ツー Shī Tsū, pronounced C2) (しーつー), is the tritagonist of Code Geass: Lelouch of the Rebellion. Her seiyu is Yukana while she is voiced by Kate Higgins in the English dub. C.C. is not her real name; she involuntarily reveals her real name to Lelouch in her sleep, but it is muted so the viewers cannot hear it. In the 29th Anime Grand Prix, she was awarded 3rd place. She was chosen as the most popular female character of 2007 and 2008 at Animage magazine's annual Anime Grand Prix.
+", anime: a20)
+char193 = Character.create(name: "Suzaku Kururugi", bio: "Suzaku Kururugi (枢木 スザク / くるるぎすざく), Kururugi Suzaku), 17 years old (18 at R2), is the deuteragonist of the Sunrise anime series Code Geass: Lelouch of the Rebellion, one of the antagonists of Code Geass: Akito the Exiled, and one of the protagonists of Code Geass: Lancelot & Guren. He is voiced by Takahiro Sakurai, while his child self is voiced by Akeno Watanabe. He is voiced by Yuri Lowenthal in the English dub, and his child self is voiced by Laura Bailey. In the 29th Anime Grand Prix, he was placed sixth with 143 votes, then 19th and 13th, respectively, in the following two.
+", anime: a20)
+char194 = Character.create(name: "Kallen Stadtfeld", bio: "Kallen Kōzuki (紅月カレン Kōzuki Karen) is one of the main characters featured in Code Geass: Lelouch of the Rebellion, as well as one of the two protagonists of Code Geass: Lancelot & Guren. She is officially known as Kallen Stadtfeld (カレン・シュタットフェルト Karen Shutattoferuto), and goes by this name at school, but prefers her mother's maiden Japanese name during her revolutionary (now military) activities. Ami Koshimizu won 'Best Actress in supporting role' for her role as Kallen at the first Seiyuu Awards in 2007. Kallen was awarded 8th place in the 29th Anime Grand Prix, then 17th and 16th, respectively, in the following two.
+", anime: a20)
+char195 = Character.create(name: "Nunnally Lamperouge", bio: "Nunnally vi Britannia (ナナリー・ヴィ・ブリタニア, Nanarī vui Buritania), 14 years old (15 at R2), is one of the main supporting characters of Code Geass, and the main character of Code Geass: Nightmare of Nunnally. She was formerly a Princess of the Holy Britannian Empire and the Eleventh Prince Lelouch vi Britannia's younger sister. Additionally she was 87th in line to the imperial throne and the final Viceroy of Area 11. After she was exiled she used the alias, Nunnally Lamperouge (ナナリー・ランペルージ, Nanarī Ranperūji). Her seiyū is Kaori Nazuka. In the English dub, she is voiced by Rebecca Forstadt.
+", anime: a20)
 
-char200 = Character.create(name: "Clare", bio: "", anime: a21)
-char201 = Character.create(name: "Raki", bio: "", anime: a21)
-char203 = Character.create(name: "Denevi", bio: "", anime: a21)
-char204 = Character.create(name: "Miria", bio: "", anime: a21)
-char205 = Character.create(name: "Periscilla", bio: "", anime: a21)
-char206 = Character.create(name: "Teresa", bio: "", anime: a21)
+char200 = Character.create(name: "Clare", bio: "Clare (クレア Kurea) is a female Claymore and the Organization's No. 47 during her generation which was the 150th generation of Claymores. She is the main protagonist of the series. She is the only known Claymore to have taken the flesh and blood of a fellow Claymore rather than that of a Yoma, making her 1/4 Yoma, as opposed to 1/2 human like the other warriors. This was allowed to happen as an experiment to attempt to create a stronger warrior. This experiment was considered a failure, as she was considered weak and was given the last rank of No. 47 in the 150th generation. Despite this, through both her own efforts and the help of others, Clare eventually attained a significant level of power and became one of the first partially Awakened Beings. Clare is also the only person known to have volunteered to undergo the process of becoming a Claymore.
+", anime: a21)
+char201 = Character.create(name: "Raki", bio: "Raki(ラキ) is a human whose family was eaten by a yoma and was saved by Clare. He was allowed to travel with her after this happened, and become very close to her, wishing to fight with and protect her as she had done with him. After the seven-year time skip, he was reunited with Clare and became one of the Ghosts.
+", anime: a21)
+char203 = Character.create(name: "Denevi", bio: "Deneve was Claymore No. 15 of the 135th generation in the Organization. Though she has partially Awakened, she succeeded in reverting to her normal state. She possesses a calm and understanding yet serious personality, but can be a perfectionist. Her regeneration ability is superb, even for a defensive fighter, and her skills are unique. Deneve was a standard one Claymore warrior until her captain in the northern campaign death, Undine had died.
+    ", anime: a21)
+char204 = Character.create(name: "Miria", bio: "Miria was Claymore No. 6 of the 127th generation in the Organization, and currently the deuteragonist of the series. Her ability to move at frightening speeds, leaving after-images of herself in order to evade and confuse her opponents, earned her the title 'Phantom Miria' (幻影のミリア, Gen'ei no Miria) and the reputation of being one of the fastest warriors of her generation.
+", anime: a21)
+char205 = Character.create(name: "Periscilla", bio: "Priscilla was to be Claymore No. 2 of Teresa's generation and is considered to be the second most powerful character in the series, surpassing all the Abyssals . During her time as a Claymore, she possessed incredible potential as a warrior and, like Teresa, could fight without using her Yoki. She rose to the position of No.2 after just a few months in the field and was tasked to assassinate Teresa with the help of fellow single-digits Irene (current No. 2), Noel (No. 4), and Sophia (No. 3). It was during this mission that she reached her limit and Awakened, becoming the main antagonist of the series.
+", anime: a21)
+char206 = Character.create(name: "Teresa", bio: "Teresa is the 182nd Claymore of the 77th generation in the Organization, formerly ranked as No.1. She is among the eight No.1 warriors capable of surpassing the original Abyssal Ones, considered even to be the strongest ever created. She is also regarded as the most powerful character in the series for her unparalleled combat ability, Yoki perception, and Yoki reserve; even against an awakened Rosemary or a near-awakened Priscilla, a mere ten-percent energy release was enough to overpower them. She was nicknamed 'Teresa of the Faint Smile' (微笑のテレサ, Bishō no Teresa, lit. 'Smiling Teresa') for the faint smiles that graced her face as she effortlessly slaughtered her enemies.
+", anime: a21)
 
-char210 = Character.create(name: "Lucy", bio: "", anime: a22)
-char211 = Character.create(name: "Kotua", bio: "", anime: a22)
-char212 = Character.create(name: "Yuka", bio: "", anime: a22)
-char213 = Character.create(name: "Nayu", bio: "", anime: a22)
-char214 = Character.create(name: "Nana", bio: "", anime: a22)
-char215 = Character.create(name: "Nozomi", bio: "", anime: a22)
+char210 = Character.create(name: "Lucy", bio: "Lucy/Nyu (real name: Kaede) is the main character, protagonist and anti-heroine/anti-villainess of the Elfen Lied series. The so-called 'Queen' Diclonius, Lucy, was an individual difficult to pin down by any standard of 'good' or 'evil' societal mores. She was both ruthlessly tormented and was also a sadistic tormentor to others, driven to a mental breakdown at an early age by the cruelty that surrounded her. Though she never expected to receive any form of love and acceptance from others, occasionally she got the chance to see that such things were, indeed, possible for someone like her. Her great love was Kouta, a boy she met when they were both children and again when they were young adults. Kaede (楓 ?) was a young Japanese woman from Kamakura responsible for the murders of several hundred people. Kaede was the first of the diclonii, a human sub-species that emerged in the late 1990s and noted by their horns and ability to kill using high-vibrating arms called 'vectors', which are invisible to normal human sight. Elfen Lied is, beyond the extreme gore, violence, and otherwise, extremely uncomfortable subject matter, a tale defined both by her love for Kouta and her desire to atone for her past sins against him. This goal, while she's dogged by corrupt humans out to either take her life or re-purpose it to suit their aims. As a Diclonius, Lucy possessed power rivaled by very few others of her kind, and her control over her vectors was virtually second to none, possessing X with a range of two metres. She was also capable of spreading the Diclonius mutation to humans via infecting their parents with her vectors, a process capable of gradually replacing regular Humans with her kind, albeit mostly of sterile, rapidly growing Silpelits that were to serve as 'drones' to her role as 'Queen.' This infection process, which is described as a virus, is used perhaps for lack of a clearer term. Kaede's abandonment as an infant and life in a hostile orphanage environment in Kamakura played a part in her early violence, and she was forced to flee after losing control and killing several children with her vectors. As a young child, Kaede was not a suspect in the high-profile killings of families in Kamakura after the orphanage massacre, and was believed to have been abducted by the killer. Following a traumatic incident at a festival, Kaede killed several more in what was believed to be a terrorist attack. For several more years, Kaede continued to live in the area and killed people by inducing heart attacks, with the side-effect of survivors being infected with a heritable virus which resulted in diclonius children, dubbed 'Silpelits'. This got the attention of the Japanese government, who funded two institutes to investigate anti-Diclonius countermeasures and provided them with defense equipment. Kaede's location was deciphered by Dr. Kurama, who compared old case reports to track down who he dubbed 'Lucy', and she was captured in a botched raid that resulted in the apparent death of a human friend of her's. From this, Kaede held a lifelong obsession with killing anyone he cared about. Kaede escaped after three years of captivity and returned to Kamakura though, suffering from head trauma and the shock of meeting her childhood sweetheart, Kōuta (or Kōta), she developed an infantile personality dubbed 'Nyu', and was taken in by he and his cousin, Yuka. The Japanese government, recognizing the threat Kaede posed to the world, pressed for a renewed search and her capture or death.
+", anime: a22)
+char211 = Character.create(name: "Kotua", bio: "Kouta is the main male protagonist and the deuteragonist of the Elfen Lied series, second only to Lucy in central importance, born and raised initially in Hokkaido. He is everything to Lucy and is the tragic love of her life
+    ", anime: a22)
+char212 = Character.create(name: "Yuka", bio: "Yuka is a young woman who serves as the 'mother' figure of those living in the Maple House in Kamakura. She is the cousin of Kouta and his sister Kanae, and the niece (either by marriage or blood) of their father. During her childhood, she had strong romantic feelings for Kouta, and those feelings have remained consistently high throughout the series.
+", anime: a22)
+char213 = Character.create(name: "Nayu", bio: "Nyuu Jr. or Little Nyuu is a manga-only character introduced in the final chapter; she's the daughter of Kouta, bears the likeness of Yuka, named for their late friend, Nyu. Though her mother is never mentioned by name, she is virtually identical to Yuka when she was that young, and she mentions her mother getting angry at their being late, which is in character for Yuka.
+    ", anime: a22)
+char214 = Character.create(name: "Nana", bio: "Nana (ナナ), or Silpelit 7 is a main character in the Elfen Lied manga and anime series. Nana was one of the Diclonius not euthanized at birth, but rather taken and experimented on at the Diclonius Research Institute. She has the physical appearance of being twelve to thirteen years old, but her actual age is about six to seven years old; the manga explains in greater detail that Silpelits age more rapidly than humans (or a 'Queen Diclonius' like Lucy). She developed a deep attachment to Director Kurama and believed him to be her father, providing her with the emotional support to endure all the hardships and depredations of life as a test subject, as well as prevent her from becoming mentally unstable like so many other Diclonius subjects, such as Mariko.
+", anime: a22)
+char215 = Character.create(name: "Nozomi", bio: "Nozomi is a recurring key character of the Elfen Lied manga series, a young woman of high school age. She is a manga-only character. Gifted with a beautiful singing voice, because of her father, she can't practice singing at home. She is aided and encouraged to pursue her dream by her senpai Yuka, and all the residents of Maple House, where she eventually moves in.
+    ", anime: a22)
 
-char220 = Character.create(name: "Alucard", bio: "", anime: a23)
-char221 = Character.create(name: "Seras Victoria", bio: "", anime: a23)
-char222 = Character.create(name: "Schrodinger", bio: "", anime: a23)
-char223 = Character.create(name: "Alexander Anderson", bio: "", anime: a23)
-char224 = Character.create(name: "Walter C. Dornez", bio: "", anime: a23)
+char220 = Character.create(name: "Alucard", bio: "Alucard (アーカード Ākādo?) is the main protagonist of the Hellsing series created by Kouta Hirano. He is the most powerful weapon of the Hellsing Organization which works against vampires and other such supernatural forces. Alucard is no mere vampire; it has been implied that he is the most powerful vampire alive and may be the most powerful character in the series, rivaled only by The Captain and Alexander Anderson.
+", anime: a23)
+char221 = Character.create(name: "Seras Victoria", bio: "Seras Victoria (セラス・ヴィクトリア Serasu Vikutoria?) is one of the main protagonists of Hellsing. Seras was turned into a vampire by Alucard to save her from a would-be fatal gunshot wound in the chest that he also caused to kill the vampire priest who held her hostage.
+", anime: a23)
+char222 = Character.create(name: "Schrodinger", bio: "Schrödinger held the rank of Oberscharführer (warrant officer) and served in the Millennium military unit of Werewolf. He was created by The Doctor and while usually found sitting near the Major's throne like a pet, he also acts as an envoy for Millennium. His relationship with The Major is very different than most of the soldiers commanded by him. The Major seems to emit a sense of affection for Schrödinger, akin to the relationship of a cat owner who could never be angry towards him. Due to his ability to be 'everywhere and nowhere' at the same time, he has proved to be a useful spy and messenger for Millennium's forces.
+", anime: a23)
+char223 = Character.create(name: "Alexander Anderson", bio: "Alexander Anderson (アレクサンド・アンデルセン Arekusando Anderusen?) is a Vatican priest, working as a vampire hunter and agent of the Iscariot branch of the Vatican. He is also the arch-rival of Alucard. In the English dub of the anime and OVA, he is portrayed as having a Scottish accent, though canonically his nationality is unknown. He lives in Italy, operating an orphanage outside Vatican City. He serves as the foil to Alucard as both an antagonist and type of anti-villain in the series, both in the TV anime and the OVA series.
+", anime: a23)
+char224 = Character.create(name: "Walter C. Dornez", bio: "Walter C. Dornez (ウォルター・C（クム）・ドルネーズ, Worutā C. (Kumu) Dorunēzu) is a former active duty member of the Hellsing Organization, and is employed as the family's retainer.
+", anime: a23)
 
-char230 = Character.create(name: "Shinichi Izumi", bio: "", anime: a24)
-char231 = Character.create(name: "Migi", bio: "", anime: a24)
-char232 = Character.create(name: "Satomi Nurano", bio: "", anime: a24)
-char233 = Character.create(name: "Gotou", bio: "", anime: a24)
-char234 = Character.create(name: "Reiko Tamura", bio: "", anime: a24)
-char235 = Character.create(name: "Uragami", bio: "", anime: a24)
-char236 = Character.create(name: "Mr. A", bio: "", anime: a24)
+char230 = Character.create(name: "Shinichi Izumi", bio: "Shinichi Izumi (泉 新一, lit. Izumi Shin'ichi) is the main protagonist of the Kiseijuu series. He is a high school student whose right arm was infected with a parasite he named Migi.
+", anime: a24)
+char231 = Character.create(name: "Migi", bio: "Migi (ミギー Migī, 'Righty'), (pronounced mee-gee) is the name chosen by the parasite that infested Shinichi Izumi's right hand. Migi is unlike most other parasites in the series. He didn't develop an urge to eat humans, due to not consuming the brain of the host, which also allowed Shinichi to retain his individuality.
+", anime: a24)
+char232 = Character.create(name: "Satomi Nurano", bio: "Satomi Murano (村野 里美 lit. Murano Satomi) is a deuteragonist in the series. She is Shinichi Izumi's best friend and companion (sometimes). Over the course of the series, they develop a romantic relationship, but their attraction to and fondness for one another is hampered by Shinichi's fear of his own monstrous nature, and Satomi's fear of Shinichi's secretive behavior and the mood swings that result from the trials and tribulations in his life. Up until the end, she has no idea about Migi, until a near death experience may have driven him to use his abilities without Shinichi's realization.
+", anime: a24)
+char233 = Character.create(name: "Gotou", bio: "Gotou (後藤, lit. Gotō) is an 'experimental' parasite created by Reiko. His body is composed of five different parasites, whose power he can utilize to the fullest extent, making him the one of the most powerful parasites in the story. He is the main antagonist of the series.
+", anime: a24)
+char234 = Character.create(name: "Reiko Tamura", bio: "Reiko Tamura (田村 玲子, lit. Tamura Reiko), originally know as Ryouko Tamiya (田宮 良子, lit. Tamiya Ryōko), is a Parasite and one of Shinichi Izumi's high school teachers. Just like most other parasites, she has an emotionless expression. However, after giving birth she became increasingly maternal to the point that she gave her life to save her son.
+", anime: a24)
+char235 = Character.create(name: "Uragami", bio: "Uragami (浦上, lit. Urakami) is a serial killer who cannibalizes his victims that can also sense parasites, which includes Shinichi. He is the only human antagonist, and he along with Gotou are the main antagonists of the series.
+", anime: a24)
+char236 = Character.create(name: "Mr. A", bio: "Mr. A (A, Ē) is a Parasite who considers Shinichi a threat. Reiko calls him a fool, while Migi describes him as 'not one of our smart ones'. He is a minor antagonist early in the series.
+", anime: a24)
 
-char240 = Character.create(name: "Light Yagami", bio: "", anime: a25)
-char241 = Character.create(name: "L", bio: "", anime: a25)
-char242 = Character.create(name: "Ryuk", bio: "", anime: a25)
-char243 = Character.create(name: "Misa Amane", bio: "", anime: a25)
-char244 = Character.create(name: "Near", bio: "", anime: a25)
-char245 = Character.create(name: "Mello", bio: "", anime: a25)
+char240 = Character.create(name: "Light Yagami", bio: "Light Yagami (夜神月, Yagami Raito) is the main protagonist of the Death Note series. After discovering the Death Note, he decides to use it to rid the world of criminals. His killings are eventually labelled by people of Japan as the work of 'Kira.'
+", anime: a25)
+char241 = Character.create(name: "L", bio: "L (エル, Eru) is a world-renowned detective who takes on the challenge of catching the mass murderer known as Kira. In his investigation, L becomes suspicious of Light Yagami and makes it his goal to prove that Light is Kira.
+", anime: a25)
+char242 = Character.create(name: "Ryuk", bio: "Ryuk (リューク, Ryūku) is a Shinigami who indirectly gives Light Yagami a Death Note after becoming bored with the Shinigami Realm. In an effort to amuse himself, he steals a second Death Note and drops it into the Human World for someone to find. This Death Note is discovered by Light, who uses it in an attempt to cleanse the world of evil and injustice, satisfying Ryuk's need for entertainment.
+", anime: a25)
+char243 = Character.create(name: "Misa Amane", bio: "Misa Amane (弥 海砂, Amane Misa) is an up-and-coming model and supporter of Kira who eventually becomes the Second Kira. After gaining a Death Note, she seeks out Kira in order to thank him for killing the man who murdered her family and to offer him her help. Having made the trade for the Shinigami Eyes, Misa learns that the identity of Kira is Light Yagami. After a meeting with Light, she decides to dedicate her life to helping Light however she can, and becomes determined to use her eyes to uncover L's real name.
+", anime: a25)
+char244 = Character.create(name: "Near", bio: "Near (ニア, Nia) is the younger of L's two successors, raised in Wammy's House—Watari's orphanage for gifted children in Winchester, England. After L's death, Near begins his investigation of the Kira case, gathering evidence over a period of four years. Near takes his findings to the President of the United States and reveals himself to be the true successor of L. Soon after, Near becomes the head of the Special Provision for Kira and continues the hunt for Kira. After making contact with 'L' (Light Yagami), Near begins to suspect that he is also Kira.
+", anime: a25)
+char245 = Character.create(name: "Mello", bio: "Mello (メロ, Mero) is the older of L's two successors, raised at Wammy's House—Watari's orphanage for gifted children in Winchester, England. When Roger asks that Mello and Near work together to capture Kira, Mello refuses, citing an inability to work with somebody to whom he considers 'second.' He leaves the orphanage soon after, stating 'I'll find my own way,' and he eventually seeks help from the Mafia.
+", anime: a25)
 
-char250 = Character.create(name: "Johan Liebert", bio: "", anime: a26)
-char251 = Character.create(name: "Nina Fortner", bio: "", anime: a26)
-char252 = Character.create(name: "Kenzo Tenma", bio: "", anime: a26)
-char253 = Character.create(name: "Franz Bonaparta", bio: "", anime: a26)
-char254 = Character.create(name: "Wolfe Gang Grimer", bio: "", anime: a26)
-char255 = Character.create(name: "Heinrich Lunge", bio: "", anime: a26)
-char256 = Character.create(name: "Reborto", bio: "", anime: a26)
-char257 = Character.create(name: "Eva Heinemann", bio: "", anime: a26)
+char250 = Character.create(name: "Johan Liebert", bio: "Johan Liebert is the titular "monster" and the main antagonist of the series. Although he is most frequently referred to as "Johan Liebert," Johan is not his real name, but rather one of the many ones he uses over the course of his life. He is the twin brother of Anna Liebert.
+    ", anime: a26)
+char251 = Character.create(name: "Nina Fortner", bio: "Nina Fortner, originally known as Anna Liebert, is the twin sister of Johan Liebert and one of the main protagonists in the series following Doctor Tenma. She is identical to Johan, except for having slightly darker hair. Nina is athletic, intelligent and cheerful.
+    ", anime: a26)
+char252 = Character.create(name: "Kenzo Tenma", bio: "Dr. Kenzo Tenma is the primary protagonist of the series. He was a genius neurosurgeon at Eisler Memorial Hospital, considered to be the best in the field, until he disobeyed the Hospital Director's orders to perform brain surgery on Mayor Roedecker, choosing instead to operate on a newly-orphaned boy, Johan Liebert. Since the boy arrived first, he decided to risk his promising future to do what was morally correct and save Johan. Unfortunately the mayor passed away, and the boy, along with his twin sister, went missing...
+    ", anime: a26)
+char253 = Character.create(name: "Franz Bonaparta", bio: "Franz Bonaparta is a major figure behind many important mysteries in the series. He is a psychologist, psychiatrist, neurosurgeon, and children's book author and illustrator. He has also worked with the Czech Secret Police where he conducted personality reprogramming experiments, and was in charge of the eugenics experiment together with Petr Čapek, another Czech that crossed the German border, which led to the creation of the twins Johan and Anna Liebert.
+    ", anime: a26)
+char254 = Character.create(name: "Wolfe Gang Grimer", bio: "General Helmut Wolf (ヘルムート・ヴォルフ) is one of the few people who have watched Johan grow and take his place in the world without being murdered. He is one of the top four members of a right-wing organization attempting to entice Johan Liebert to become the country's new leader. Wolf is supposedly the first one who actually encountered Johan, together with his sister Anna, on the Czech border, though later revelations would contradict this. Unlike the other three leaders, Wolf has no desire to actually mold Johan Liebert into the "next Hitler", condemning the venture as foolhardy. Instead, he seeks to regain his lost past and proof of his own identity, robbed from him by Johan's actions after he found him.
+", anime: a26)
+char255 = Character.create(name: "Heinrich Lunge", bio: "Inspector Heinrich Lunge (ハインリッヒ・ルンゲ) is an officer employed in the BKA, who obsessively believes that Dr. Kenzo Tenma is responsible for a series of murders and criminal events taking place in Germany, and doggedly pursues him to that end. He lives for his work, and pridefully states that no case he ever has taken on has ended without a resolution. He possesses extremely high analytical abilities, and has an excellent memory. However, he is ultimately forced to confront and contend with the "fairy-tale" reality that surrounds him when he comes to realize that Tenma is not in fact responsible, but no less than the mysterious Johan Liebert, the "monster" Tenma had referred to in his testimonies, is in fact the guilty party.
+", anime: a26)
+char256 = Character.create(name: "Reborto", bio: "Roberto (ロベルト, Roberuto) or Adolf Reinhart is the secondary antagonist of the series. He is a bodyguard, hitman and a henchman who also happens to be another admirer of Johan's, serving in the capacity of his most devoted and fervent follower.
+", anime: a26)
+char257 = Character.create(name: "Eva Heinemann", bio: "Eva Heinemann (エヴァ・ハイネマン) is Dr. Kenzo Tenma's ex-fiancée and the daughter of his former boss, the late Udo Heinemann. She remained a hindrance to Tenma during his time on the run from the authorities while he pursued Johan Liebert. However, after becoming enmeshed in many of the proceedings related to Tenma's quest and Johan's machinations, including her brief relationship with her bodyguard Martin Reest, Eva eventually comes to experience a change of heart and renounces her vengeful goal of seeing to Tenma's downfall and arrest and tries to clear his name, whilst also individually devoting herself to uncovering and exposing Johan's plans.
+", anime: a26)
 
-char260 = Character.create(name: "Notoko Kusanagi", bio: "", anime: a27)
-char261 = Character.create(name: "Hideo Kuze", bio: "", anime: a27)
-char262 = Character.create(name: "Eatou", bio: "", anime: a27)
-char263 = Character.create(name: "Daisuke Aramaki", bio: "", anime: a27)
+char260 = Character.create(name: "Notoko Kusanagi", bio: "Major Motoko Kusanagi (草薙 素子, Kusanagi Motoko) is the main protagonist in Masamune Shirow's anime and manga series. She is a cyborg employed as the squad leader of Public Security Section 9, a fictional division of the real Japanese National Public Safety Commission. She is voiced by Atsuko Tanaka in the movies and the Ghost in the Shell: Stand Alone Complex series. In the English dubbing of the film, Mimi Woods provides the voice, and in the Bandai dub of the Stand Alone Complex TV series, Mary Elizabeth McGlynn is the voice actress.
+", anime: a27)
+char261 = Character.create(name: "Hideo Kuze", bio: "Hideo Kuze (クゼ・ヒデオ Kuze Hideo) is a fictional character in Masamune Shirow's Ghost in the Shell anime series Stand Alone Complex 2nd Gig. Kuze is a full cyborg and is a main suspect in Section 9's investigation of the Individual Eleven. He is unusual among prostheticized individuals since he has chosen to have a sculpted face, which is far more difficult to manipulate than a standard prosthetic face. Due to this, Kuze's mouth typically remains motionless while he speaks.
+", anime: a27)
+char262 = Character.create(name: "Batou", bio: "Batou (バトー Batō) is a primary male character in the Ghost in the Shell franchise, the second best melee fighter in Section 9, and second in command behind Major Motoko Kusanagi. While his name is officially romanized as 'Batou', in some translations of GitS media it has been alternatively spelled 'Bateau' (the French word for 'boat').
+", anime: a27)
+char263 = Character.create(name: "Daisuke Aramaki", bio: "Daisuke Aramaki (荒巻大輔, Aramaki Daisuke) is chief of Public Security Section 9.
+", anime: a27)
 
-char270 = Character.create(name: "Yuno Gasai", bio: "", anime: a28)
-char271 = Character.create(name: "Yukitero Amano", bio: "", anime: a28)
-char272 = Character.create(name: "Aru Akise", bio: "", anime: a28)
-char273 = Character.create(name: "Minene Uryu", bio: "", anime: a28)
-char274 = Character.create(name: "Tsubaki Kasugano", bio: "", anime: a28)
+char270 = Character.create(name: "Yuno Gasai", bio: "Yuno Gasai (我妻 由乃, Gasai Yuno) is the main female protagonist of the Future Diary series. She is the Second in the Survival Game and she is the owner of the 'Yukiteru Diary/ Diary of future love'.
+", anime: a28)
+char271 = Character.create(name: "Yukitero Amano", bio: "Yukiteru 'Yuki' Amano (天野 雪輝, Amano Yukiteru) is the main male protagonist of the Future Diary series. He is the First Diary Holder and in possession of the 'Observance/Indiscriminate Diary'. He is the love interest of Yuno Gasai and Aru Akise.
+", anime: a28)
+char272 = Character.create(name: "Aru Akise", bio: "Aru Akise (秋瀬 或, Akise Aru) is one of Yukiteru Amano's friends, and later becomes one of the main characters of the series. Aru is very intelligent and dreams of being a world famous detective when he gets older. Investigating the connections between Yuki and the diary owners, Aru becomes a close ally to Yuki, but an enemy and rival to Yuno Gasai. Aru quickly grows to love Yuki and wishes for him to become God. He is the main character of the spin-off manga Future Diary: Paradox, where he and Muru Muru replace Yuki and Yuno in the survival game after Muru Muru accidentally kills Yuno Gasai while Yukiteru is injured.
+", anime: a28)
+char273 = Character.create(name: "Minene Uryu", bio: "Minene Uryuu (雨流 みねね, Uryū Minene) is the Ninth Diary Holder and possesses the 'Escape Diary'. She is also the main protagonist of the spin-off Future Diary: Mosaic, which focuses on Minene before and after she gains her Future Diary.
+", anime: a28)
+char274 = Character.create(name: "Tsubaki Kasugano", bio: "Tsubaki Kasugano (春日野 椿, Kasugano Tsubaki) is the Sixth diary owner. Tsubaki is the High Priestess and Oracle of the Omekata Religion. Her followers know her as the 'Sacred Eye' because of her supposed powers of clairvoyance, although this was a lie until she gained her Future Diary, the 'Clairvoyance Diary'.
+", anime: a28)
 
-char280 = Character.create(name: "Lain Iwakura", bio: "", anime: a29)
-char281 = Character.create(name: "Masami Eiri", bio: "", anime: a29)
-char282 = Character.create(name: "Yasuo Iwakura", bio: "", anime: a29)
-char283 = Character.create(name: "Mika Iwakura", bio: "", anime: a29)
-char284 = Character.create(name: "Taro", bio: "", anime: a29)
-char285 = Character.create(name: "Karl", bio: "", anime: a29)
-char286 = Character.create(name: "Yomoda Chisa", bio: "", anime: a29)
+char280 = Character.create(name: "Lain Iwakura", bio: "Lain is the titular character of Serial Experiments Lain. She is a sentient computer program designed to sever the barrier between the material world and the wired, introduced as a shy Japanese girl in middle school at the beginning of the series. After receiving an e-mail from Chisa Yomoda who had committed suicide, Lain discovers the virtual world of The Wired. Throughout the series, Lain is subjected to hallucinations by the Knights in order to make her lose her sense of self and attempt to find solace in the Wired, in order to fulfill the Knights' prophecy of the arrival of the goddess of the Wired.
+    ", anime: a29)
+char281 = Character.create(name: "Masami Eiri", bio: "Masami Eiri (英利 政美, Eiri Masami), is the key designer of Protocol 7. While working for Tachibana Laboratories, he illicitly included code enabling him to control the whole protocol at will and 'embedded' his own consciousness in said protocol. Consequently, he was fired by Tachibana Labs, and was soon found dead on a railway, having seemingly committed suicide. It is his belief that the only way for humans to evolve further is to absolve themselves from their physical limitations and live as digital entities.
+", anime: a29)
+char282 = Character.create(name: "Yasuo Iwakura", bio: "Yasuo Iwakura is Lain's adoptive father. He is first seen in Episode 1.
+    ", anime: a29)
+char283 = Character.create(name: "Mika Iwakura", bio: "Mika is the older sister of Lain. At first, she doesn't seem to mind her family away from home and spends all day talking with them. After a while she seems to care and show more interest and became obsessed, leading to her downfall of later on losing her sanity.
+    ", anime: a29)
+char284 = Character.create(name: "Taro", bio: "Taro (タロウ Tarō) is a boy, aged 11, who frequents Cyberia. Although not a formal member, he often works with the Knights of the Eastern Calculus. He is a PK in PHANTOMa.
+", anime: a29)
+char285 = Character.create(name: "Karl", bio: "Karl Haushofer and Lin Sui-Xi work for the above 'Boss' in tracking down and assassinating most of the Knights of the Eastern Calculus. They are not told the true plan, but they know that Eiri Masami is involved. They say that they 'don't need a Wired God'.
+    ", anime: a29)
+char286 = Character.create(name: "Yomoda Chisa", bio: "Chisa Yomoda was a girl in Lain Iwakura's class. Although not appearing sad she killed herself by jumping off of a building at the start of the first episode. She sends Lain an e-mail saying that The Wired is nice and 'here there is a god.'
+    ", anime: a29)
 
-char290 = Character.create(name: "Yusuke Yrameshi", bio: "", anime: a30)
-char291 = Character.create(name: "Hiei", bio: "", anime: a30)
-char292 = Character.create(name: "Kazuma Kuwabera", bio: "", anime: a30)
-char293 = Character.create(name: "Genkai", bio: "", anime: a30)
-char294 = Character.create(name: "Kurama", bio: "", anime: a30)
-char295 = Character.create(name: "Koenma", bio: "", anime: a30)
+char290 = Character.create(name: "Yusuke Yrameshi", bio: "Yusuke Urameshi (浦飯 幽助, Urameshi Yūsuke) is the main protagonist of the manga and anime series YuYu Hakusho. He is a Spirit Detective who is tasked with protecting Human World from various supernatural threats over the course of the series and his closest friends as well as greatest allies include Kuwabara, Kurama, Hiei, Keiko, Genkai, Koenma and Botan. He is also the de facto leader of Team Urameshi and the general person to look to when the going gets tough.
+", anime: a30)
+char291 = Character.create(name: "Hiei", bio: "Hiei (飛影ひえい, Literally meaning: Flying Shadow) also known as, Jaganshi Hiei (Jaganshi is an epithet meaning 'Master of the Evil Eye'), is a main character in the anime and manga series YuYu Hakusho by Yoshihiro Togashi. He is called 'Hiei of the Evil Eye' in the Viz manga and Vincent in Filipino dub.
+", anime: a30)
+char292 = Character.create(name: "Kazuma Kuwabera", bio: "Kazuma Kuwabara (桑原和真, Kuwabara Kazuma), more commonly known by his last name as Kuwabara, is one of the main protagonists of the series, along with Yusuke Urameshi, Kurama & Hiei. He is the younger brother of Shizuru Kuwabara. He also seeks to become Yukina's lover.
+", anime: a30)
+char293 = Character.create(name: "Genkai", bio: "Genkai (幻海, Literally meaning: Sea of Apparitions) was the master of the spirit detective Yusuke Urameshi and Kazuma Kuwabara . She is voiced by Hisako Kyoda (older) and Megumi Hayashibara (younger) in the Japanese dub and by Linda Young in the English dub, and Caryl Marder in the English dub of Yu Yu Hakusho: The Movie - Poltergeist Report.
+", anime: a30)
+char294 = Character.create(name: "Kurama", bio: "Yoko Kurama (妖狐蔵馬, lit. Yōko Kurama; in the English dub, Kurama the Yoko), also known as Shuichi Minamino (南野秀一, Minamino Shūichi translated as Southern Field and Excellence First, respectively), is one of the main protagonists in the anime/manga series of YuYu Hakusho. The word Yoko, despite being portrayed as a name in the dub, actually literally translates to 'demon fox' in Japanese.
+", anime: a30)
+char295 = Character.create(name: "Koenma", bio: "King Enma Jr., usually addressed as Koenma (閻魔 [コエンマ]) is current ruler of the Spirit World and son of the former ruler, King Enma.
+", anime: a30)
 
-char300 = Character.create(name: "Ash Ketchum", bio: "", anime: a31)
-char301 = Character.create(name: "Brock", bio: "", anime: a31)
-char302 = Character.create(name: "Misty", bio: "", anime: a31)
-char303 = Character.create(name: "Gary Oak", bio: "", anime: a31)
-char304 = Character.create(name: "Nurse Joy", bio: "", anime: a31)
-char305 = Character.create(name: "Officer Jenny", bio: "", anime: a31)
-char306 = Character.create(name: "Team Rocket", bio: "", anime: a31)
+char300 = Character.create(name: "Ash Ketchum", bio: "Ash Ketchum is the main protagonist of the Pokémon anime series who has always dreamed of becoming a Pokémon Master. As soon as he turned ten years old, he rushed to Professor Oak's Laboratory to get his first Pokémon. He is the first human character to be introduced in the series. Originally wanting to choose Squirtle, Ash ended up receiving the Pokémon Pikachu, as he arrived late leaving him with no other starters to choose from. He sets onto his adventure later in the day. He is currently also the only character shown to have been to all of the regions. In the Sun & Moon series, he becomes the first Champion of the Alola region's Pokémon League.
+    ", anime: a31)
+char301 = Character.create(name: "Brock", bio: "Brock serves as the Gym Leader at the Pewter City Gym and holds the Boulder Badge for the trainers that defeat him in a Pokémon battle. In the Pokémon games, Brock specializes in and only uses Rock-type Pokémon.
+    ", anime: a31)
+char302 = Character.create(name: "Misty", bio: "Misty is the Gym Leader of the Cerulean City Gym and specializes in Water-type Pokémon. She gives the Cascade Badge to trainers that defeat her.
+    ", anime: a31)
+char303 = Character.create(name: "Gary Oak", bio: "Gary Oak is Professor Oak's grandson and Ash Ketchum's rival in the first few seasons. His starter Pokémon was a Squirtle that later evolved into a Blastoise.
+    ", anime: a31)
+char304 = Character.create(name: "Nurse Joy", bio: "Nurse Joy (original name Pokémon Center Lady in the card game) is the name of multiple nurses that work in Pokémon Centers throughout the various locations in the regions in the games and anime. A Nurse Joy can completely restore any Pokémon back to perfect health. She has appeared in Pokémon games since the beginning of Generation I.
+", anime: a31)
+char305 = Character.create(name: "Officer Jenny", bio: "Officer Jenny is a police officer who lives in every city. They can be told apart only by Brock. She uses Growlithe and Arcanine as police dogs to search for thieves.
+    ", anime: a31)
+char306 = Character.create(name: "Team Rocket", bio: "Team Rocket is a criminal organization set to steal other people's Pokémon, with their headquarters in the Kanto Region and the Johto region and a branch in Sevii Islands. They are headed by Giovanni, who also doubles as the Viridian City Gym Leader.
+    ", anime: a31)
 
-char310 = Character.create(name: "Yami Yugi", bio: "", anime: a32)
-char311 = Character.create(name: "Seto Kaiba", bio: "", anime: a32)
-char312 = Character.create(name: "Joey Wheeler", bio: "", anime: a32)
-char313 = Character.create(name: "Tea Garder", bio: "", anime: a32)
-char314 = Character.create(name: "Maximillion Pegasus", bio: "", anime: a32)
-char315 = Character.create(name: "Tristan Tayler", bio: "", anime: a32)
+char310 = Character.create(name: "Yami Yugi", bio: "Yami Yugi, known as Dark Yugi in the manga and Japanese versions, and also referred to as the Nameless Pharaoh, is the spirit of Pharaoh Atem that has been sealed in the Millennium Puzzle. He is the main protagonist of the original and second series, along with Yugi Muto.
+    ", anime: a32)
+char311 = Character.create(name: "Seto Kaiba", bio: "Seto Kaiba (海かい馬ば 瀬せ人と Kaiba Seto) is one of the main characters of the Yu-Gi-Oh! anime. He is the older brother of Mokuba and the modern-day reincarnation of Priest Seto, himself the original keeper of the Blue-Eyes White Dragon.
+", anime: a32)
+char312 = Character.create(name: "Joey Wheeler", bio: "Joseph 'Joey' Wheeler, known as Katsuya Jonouchi (城じょう之の内うち 克かつ也や Jōnouchi Katsuya) in the manga and Japanese version, is one of the main characters in Yu-Gi-Oh!. He is best friends with Yugi Muto. Joey starts out as an inexperienced Duelist, but he later becomes one of the greatest Duelists in the world. He accompanies Yugi throughout his adventures.
+", anime: a32)
+char313 = Character.create(name: "Tea Garder", bio: "Téa Gardner, known as Anzu Mazaki (真ま崎ざき 杏あん子ず Mazaki Anzu) in the Japanese versions, is one of Yugi Muto's best friends. Téa does not usually play games with Yugi and his friends, but in the beginning of the anime, she could beat Joey Wheeler in Duel Monsters, and was later shown to be more than competent against others. Téa is also very good at dancing and wants to be a professional dancer when she grows up.
+", anime: a32)
+char314 = Character.create(name: "Maximillion Pegasus", bio: "Maximillion Pegasus, known as Pegasus J. Crawford in the Japanese version, is the president of Industrial Illusions and the creator of the game of Duel Monsters. He owns many cards that have never been released to the public. He originally wanted to be an artist before becoming obsessed with Egypt and creating Duel Monsters. This did serve to fulfill his original dream as he drew monsters for his game.
+    ", anime: a32)
+char315 = Character.create(name: "Tristan Tayler", bio: "Tristan Taylor, known as Hiroto Honda (本ほん田だ ヒロト Honda Hiroto) in the Japanese version, is in class 1-B at Domino High School and a friend of Yugi Muto, Joey Wheeler, Téa Gardner and Bakura Ryou.
+", anime: a32)
 
-char320 = Character.create(name: "Tai Kamiya", bio: "", anime: a33)
-char321 = Character.create(name: "Kari Kamiya", bio: "", anime: a33)
-char322 = Character.create(name: "T.k. Tak Aishi", bio: "", anime: a33)
-char323 = Character.create(name: "Mimi Tachikawa", bio: "", anime: a33)
-char324 = Character.create(name: "Matt Ishida", bio: "", anime: a33)
-char325 = Character.create(name: "Izzy Izumi", bio: "", anime: a33)
-char326 = Character.create(name: "Sora Takenouchi", bio: "", anime: a33)
-char327 = Character.create(name: "Joe Kido", bio: "", anime: a33)
+char320 = Character.create(name: "Tai Kamiya", bio: "Taichi 'Tai' Kamiya (八神 太一 Yagami Taichi?) is the protagonist in the anime and manga Digimon Adventure and Digimon Adventure tri.. He is a major supporting character in Digimon Adventure 02. He is a DigiDestined, partnered with Agumon, and the bearer of the Crest of Courage. He is the older brother of Kari Kamiya.
+", anime: a33)
+char321 = Character.create(name: "Kari Kamiya", bio: "Kari Kamiya (八神 ヒカリ Yagami Hikari?) is a character in the anime and manga series Digimon Adventure, Digimon Adventure 02 and Digimon Adventure tri.. Kari is a DigiDestined, partnered with Gatomon, and embodies the trait of Crest of Light. She is the younger sister of Taichi 'Tai' Kamiya.
+", anime: a33)
+char322 = Character.create(name: "T.k. Tak Aishi", bio: "Takeru 'T.K.' Takaishi (高石 タケル Takaishi Takeru?) is a character in the anime and manga series Digimon Adventure, Digimon Adventure 02 and Digimon Adventure tri.. He is a DigiDestined, partnered with Patamon, and embodies the trait of Hope. He is the younger brother of Yamato 'Matt' Ishida.
+", anime: a33)
+char323 = Character.create(name: "Mimi Tachikawa", bio: "Mimi Tachikawa (太刀川 ミミ Tachikawa Mimi?) is a character in the anime and manga series Digimon Adventure, Digimon Adventure 02 and Digimon Adventure tri.. She is a DigiDestined, partnered to Palmon, and the bearer of the Crest of Sincerity.
+", anime: a33)
+char324 = Character.create(name: "Matt Ishida", bio: "Yamato 'Matt' Ishida (石田 ヤマト Ishida Yamato?) is a character in the anime and manga series Digimon Adventure, Digimon Adventure 02 and Digimon Adventure tri. He is a DigiDestined, partnered with Gabumon, and the bearer of the Crest of Friendship. He is the older brother of Takeru 'T.K.' Takaishi.
+", anime: a33)
+char325 = Character.create(name: "Izzy Izumi", bio: "Koushiro 'Izzy' Izumi (泉 光子郎 Izumi Kōshirō?) is a character in the anime and manga series Digimon Adventure, Digimon Adventure 02 and Digimon Adventure tri.. He is a DigiDestined, partnered with Tentomon, and the bearer of the Crest of Knowledge.
+", anime: a33)
+char326 = Character.create(name: "Sora Takenouchi", bio: "Sora Takenouchi (武之内 空 Takenouchi Sora?) is a fictional character in the anime and manga series Digimon Adventure, Digimon Adventure 02 and Digimon Adventure tri. She is a DigiDestined, partnered with Biyomon, and the bearer of the Crest of Love.
+", anime: a33)
+char327 = Character.create(name: "Joe Kido", bio: "Joe Kido (城戸 丈 Kido Jō?, lit. 'Jo Kido') is a character in the anime and manga series Digimon Adventure, Digimon Adventure 02 and Digimon Adventure tri.. He is a DigiDestined, partnered to Gomamon, and bearer of the Crest of Reliability (Honesty in Japan).
+", anime: a33)
 
-char330 = Character.create(name: "Afro Summari", bio: "", anime: a34)
-char331 = Character.create(name: "Najia Nagia", bio: "", anime: a34)
-char332 = Character.create(name: "Jinosuke", bio: "", anime: a34)
+char330 = Character.create(name: "Afro Samurai", bio: "Afro (アフロ, Afuro), or better known as Afro Samurai (アフロサムライ, Afuro Samurai) is the main protagonist of the Afro Samurai series.
+", anime: a34)
+char331 = Character.create(name: "Ninja Ninja", bio: "Ninja Ninja (ニンジャニンジャ, Ninja Ninja) is apparently the deuteragonist of the series (the main protagonist being Afro). Ninja Ninja is one of the most mysterious characters of the series, as he is known to suddenly appear or disappear at particular moments almost as if he was always or was never there, be it during a battle Afro is caught in, or when Afro seems to be almost completely alone. He is likely a figment of Afro's imagination to cope with severe psychiatric trauma from unbearable sights and actions of death. Being that Afro is an emotionless murderer, his mind may well have created Ninja Ninja to hold his other emotions excluding Anger and hatred ; He often hangs with Afro as his self-appointed 'Road Dog'. Another possible understanding of Ninja-Ninja that would also be relevant to his regular Buddhist inspired spiritual practices is that Ninja Ninja represents Afro's 'Mind', which tries to affect Afro through voicing doubts and fears. Contrasting Ninja Ninja against Afro's actions in this context gives Afro a different set of characteristics. As to say, he has fears, doubts and anxieties yet continues onward in spite of them.
+", anime: a34)
+char332 = Character.create(name: "jinnosuke", bio: "Jinnosuke (甚之助, Jin'nosuke) or just Jinno, he is a major character in the Afro Samurai world. He is later known as Kuma (クマ, Kuma).
+", anime: a34)
 
 # ===========================================================================
 
