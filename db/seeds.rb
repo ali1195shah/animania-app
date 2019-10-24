@@ -593,7 +593,7 @@ char244 = Character.create(name: "Near", bio: "Near (ニア, Nia) is the younger
 char245 = Character.create(name: "Mello", bio: "Mello (メロ, Mero) is the older of L's two successors, raised at Wammy's House—Watari's orphanage for gifted children in Winchester, England. When Roger asks that Mello and Near work together to capture Kira, Mello refuses, citing an inability to work with somebody to whom he considers 'second.' He leaves the orphanage soon after, stating 'I'll find my own way,' and he eventually seeks help from the Mafia.
 ", anime: a25)
 
-char250 = Character.create(name: "Johan Liebert", bio: "Johan Liebert is the titular "monster" and the main antagonist of the series. Although he is most frequently referred to as "Johan Liebert," Johan is not his real name, but rather one of the many ones he uses over the course of his life. He is the twin brother of Anna Liebert.
+char250 = Character.create(name: "Johan Liebert", bio: "Johan Liebert is the titular 'monster' and the main antagonist of the series. Although he is most frequently referred to as 'Johan Liebert,' Johan is not his real name, but rather one of the many ones he uses over the course of his life. He is the twin brother of Anna Liebert.
     ", anime: a26)
 char251 = Character.create(name: "Nina Fortner", bio: "Nina Fortner, originally known as Anna Liebert, is the twin sister of Johan Liebert and one of the main protagonists in the series following Doctor Tenma. She is identical to Johan, except for having slightly darker hair. Nina is athletic, intelligent and cheerful.
     ", anime: a26)
@@ -601,9 +601,9 @@ char252 = Character.create(name: "Kenzo Tenma", bio: "Dr. Kenzo Tenma is the pri
     ", anime: a26)
 char253 = Character.create(name: "Franz Bonaparta", bio: "Franz Bonaparta is a major figure behind many important mysteries in the series. He is a psychologist, psychiatrist, neurosurgeon, and children's book author and illustrator. He has also worked with the Czech Secret Police where he conducted personality reprogramming experiments, and was in charge of the eugenics experiment together with Petr Čapek, another Czech that crossed the German border, which led to the creation of the twins Johan and Anna Liebert.
     ", anime: a26)
-char254 = Character.create(name: "Wolfe Gang Grimer", bio: "General Helmut Wolf (ヘルムート・ヴォルフ) is one of the few people who have watched Johan grow and take his place in the world without being murdered. He is one of the top four members of a right-wing organization attempting to entice Johan Liebert to become the country's new leader. Wolf is supposedly the first one who actually encountered Johan, together with his sister Anna, on the Czech border, though later revelations would contradict this. Unlike the other three leaders, Wolf has no desire to actually mold Johan Liebert into the "next Hitler", condemning the venture as foolhardy. Instead, he seeks to regain his lost past and proof of his own identity, robbed from him by Johan's actions after he found him.
+char254 = Character.create(name: "Wolfe Gang Grimer", bio: "General Helmut Wolf (ヘルムート・ヴォルフ) is one of the few people who have watched Johan grow and take his place in the world without being murdered. He is one of the top four members of a right-wing organization attempting to entice Johan Liebert to become the country's new leader. Wolf is supposedly the first one who actually encountered Johan, together with his sister Anna, on the Czech border, though later revelations would contradict this. Unlike the other three leaders, Wolf has no desire to actually mold Johan Liebert into the 'next Hitler', condemning the venture as foolhardy. Instead, he seeks to regain his lost past and proof of his own identity, robbed from him by Johan's actions after he found him.
 ", anime: a26)
-char255 = Character.create(name: "Heinrich Lunge", bio: "Inspector Heinrich Lunge (ハインリッヒ・ルンゲ) is an officer employed in the BKA, who obsessively believes that Dr. Kenzo Tenma is responsible for a series of murders and criminal events taking place in Germany, and doggedly pursues him to that end. He lives for his work, and pridefully states that no case he ever has taken on has ended without a resolution. He possesses extremely high analytical abilities, and has an excellent memory. However, he is ultimately forced to confront and contend with the "fairy-tale" reality that surrounds him when he comes to realize that Tenma is not in fact responsible, but no less than the mysterious Johan Liebert, the "monster" Tenma had referred to in his testimonies, is in fact the guilty party.
+char255 = Character.create(name: "Heinrich Lunge", bio: "Inspector Heinrich Lunge (ハインリッヒ・ルンゲ) is an officer employed in the BKA, who obsessively believes that Dr. Kenzo Tenma is responsible for a series of murders and criminal events taking place in Germany, and doggedly pursues him to that end. He lives for his work, and pridefully states that no case he ever has taken on has ended without a resolution. He possesses extremely high analytical abilities, and has an excellent memory. However, he is ultimately forced to confront and contend with the 'fairy-tale' reality that surrounds him when he comes to realize that Tenma is not in fact responsible, but no less than the mysterious Johan Liebert, the 'monster' Tenma had referred to in his testimonies, is in fact the guilty party.
 ", anime: a26)
 char256 = Character.create(name: "Reborto", bio: "Roberto (ロベルト, Roberuto) or Adolf Reinhart is the secondary antagonist of the series. He is a bodyguard, hitman and a henchman who also happens to be another admirer of Johan's, serving in the capacity of his most devoted and fervent follower.
 ", anime: a26)
@@ -1056,6 +1056,256 @@ Moment.create(name: "Jotaro vs Steely Dan", code: "https://www.youtube.com/embed
 Moment.create(name: "Jotaro's Idiot Test", code: "https://www.youtube.com/embed/EzlvdPdgBFA" , length: "4:49", rating: 5, character: char41)
 Moment.create(name: "Jotaro vs N'doul", code: "https://www.youtube.com/embed/7mBMq-lqCxc" , length: "4:26", rating: 5, character: char41)
 Moment.create(name: "Jotara and Darby play RBI Baseball", code: "https://www.youtube.com/embed/FCZcqYKZwmA" , length: "3:07", rating: 5, character: char41)
+
+#YUYU HAKASHU
+
+#YUSUKE
+
+Moment.create(name: "Yusuke' Demon Transfomation", code: "https://www.youtube.com/embed/i9F9SI9yq8c" , length: "4:34", rating: 5, character: char290)
+Moment.create(name: "Yusuke vs Togoro", code: "https://www.youtube.com/embed/DaNSqYKzZOk"  , length: "16:00", rating: 5, character: char290)
+Moment.create(name: "Yusuke's Resurrection", code: "https://www.youtube.com/embed/tLBZaOENcMU" , length: "3:39", rating: 5, character: char290)
+Moment.create(name: "Yusuke's Wake", code: "https://www.youtube.com/embed/u-6DBDeLQ_s"  , length: "4:26", rating: 5, character: char290)
+Moment.create(name: "Yusuke's First Spirit Gun", code:  "https://www.youtube.com/embed/GcUgXXHWgrI" , length: "3:38", rating: 5, character: char290)
+
+#HIEI
+
+Moment.create(name: "Hiei vs Bui", code: "https://www.youtube.com/embed/YiGA4tJCnI4" , length: "16:12", rating: 5, character: char291)
+Moment.create(name: "Hiei vs Seiryu", code: "https://www.youtube.com/embed/UnIwFJRXYus" , length: "7:41", rating: 5, character: char291)
+Moment.create(name: "Hiei vs Yusuke", code: "https://www.youtube.com/embed/54diU7dY1dY"  , length: "3:25", rating: 5, character: char291)
+Moment.create(name: "Hiei vs Makintaro", code: "https://www.youtube.com/embed/7RksNx1J0GE"  , length: "2:44", rating: 5, character: char291)
+Moment.create(name: "Hiei Saves his sister Yukina", code: "https://www.youtube.com/embed/BEQ91IJowz8"  , length: "5:23", rating: 5, character: char291)
+
+
+#Kazuma Kuwabera
+
+
+Moment.create(name: "Kuwabera's First Appearance", code: "https://www.youtube.com/embed/WD8vxcEk3Os"  , length: "1:12", rating: 5, character: char292)
+Moment.create(name: "Kuwabera's Power of Love", code: "https://www.youtube.com/embed/7k0qg_k1S0U"  , length: "2:47", rating: 5, character: char292)
+Moment.create(name: "Kuwabera Gets Beat up by Yusuke", code: "https://www.youtube.com/embed/tNifCQExgaE" , length: "2:35", rating: 5, character: char292)
+Moment.create(name: "Kuwabera's Death Speech", code: "https://www.youtube.com/embed/LZeiOLPyd1A"  , length: "1:31", rating: 5, character: char292)
+
+#GENKAI
+
+Moment.create(name: "Genkai vs Suzuka", code: "https://www.youtube.com/embed/FF8wzQV5u_0" , length: "1:23", rating: 5, character: char293)
+Moment.create(name: "Genkai's Spirit Gun", code: "https://www.youtube.com/embed/6trgfTRwXSk"  , length: "2:23", rating: 5, character: char293)
+Moment.create(name: "GEnkai Comes Back to Life", code: "https://www.youtube.com/embed/vh3BxBEcyRI"  , length: "1:59", rating: 5, character: char293)
+Moment.create(name: "Genkai's Death", code: "https://www.youtube.com/embed/ceEN01qWXm8" , length: "2:44", rating: 5, character: char293)
+
+#KURAMA
+
+Moment.create(name: "Kurama vs Sachi", code: "https://www.youtube.com/embed/xY2fwW7zcK4" , length: "3:03", rating: 5, character: char294)
+Moment.create(name: "Kurama vs Soto", code: "https://www.youtube.com/embed/hfLpJX_Jo0E"  , length: "7:35", rating: 5, character: char294)
+Moment.create(name: "Kurama vs Elder Togura", code: "https://www.youtube.com/embed/9ubUqOiGY6s"  , length: "9:39", rating: 5, character: char294)
+
+#KOENMA
+
+Moment.create(name: "Koenma Meet Yusuke", code: "https://www.youtube.com/embed/0PtffA6-t54"  , length: "1:20", rating: 5, character: char295)
+Moment.create(name: "Koenma in Teenage Form", code: "https://www.youtube.com/embed/eJfWELTTLn8" , length: "2:27", rating: 5, character: char295)
+Moment.create(name: "Koenma's Last Meeting with Yusuke", code: "https://www.youtube.com/embed/k4BbbPMnBGg" , length: "2:13", rating: 5, character: char295)
+
+#HXH
+
+#GON
+
+Moment.create(name: "Gon vs Pitou", code: "https://www.youtube.com/embed/jAlEXGqfWv0"  , length: "6:49", rating: 5, character: char91)
+Moment.create(name: "Gon vs Hisoka", code: "https://www.youtube.com/embed/XrdbZT5luns" , length: "5:25", rating: 5, character: char91)
+Moment.create(name: "Gon's Awakening", code: "https://www.youtube.com/embed/PCJy7NCFYVA"  , length: "2:42", rating: 5, character: char91)
+Moment.create(name: "Gon Meets his Dad", code: "https://www.youtube.com/embed/Rm8J_9EWh2I"  , length: "2:49", rating: 5, character: char91)
+Moment.create(name: "Gon Uses Forbidden Power", code: "https://www.youtube.com/embed/e9xImbJJVw8"  , length: "2:30", rating: 5, character: char91)
+
+#KILLUA
+
+Moment.create(name: "Killua Tries to Kill Himself", code:  "https://www.youtube.com/embed/8L67g_Zl1OI" , length: "3:47", rating: 5, character: char92)
+Moment.create(name: "Killua and Alluka's Past", code: "https://www.youtube.com/embed/0TwvaiRdxLc"  , length: "3:10", rating: 5, character: char92)
+Moment.create(name: "Killua vs Mosquito & Rhino Chimera Ants", code: "https://www.youtube.com/embed/-O-r5jkxYxQ" , length: "4:14", rating: 5, character: char92)
+Moment.create(name: "Killua vs Jones", code: "https://www.youtube.com/embed/Ewe5PMQjqaU" , length: "5:59", rating: 5, character: char92)
+Moment.create(name: "Killua take Hunter Exam again", code: "https://www.youtube.com/embed/baqqEEPH7Cw" , length: "3:11", rating: 5, character: char92)
+
+#KURAPIKA
+
+Moment.create(name: "Kurapika vs Uvo", code: "https://www.youtube.com/embed/Yun0AWwYQpQ"  , length: "9:49", rating: 5, character: char93)
+Moment.create(name: "Kurapika vs Uvogin", code: "https://www.youtube.com/embed/4RxjiEHSUec" , length: "14:15", rating: 5, character: char93)
+Moment.create(name: "Kurapika's Job Interview", code: "https://www.youtube.com/embed/5PkPGr7Rp2k" , length: "2:28", rating: 5, character: char93)
+Moment.create(name: "Kurapika Describes his Nen Power", code: "https://www.youtube.com/embed/gR3xEg7RuqY" , length: "2:14", rating: 5, character: char93)
+
+#HISOKA
+
+Moment.create(name: "Hisoka vs Gon", code: "https://www.youtube.com/embed/XrdbZT5luns" , length: "5:25", rating: 5, character: char94)
+Moment.create(name: "Hisoka vs Gotoh", code: "https://www.youtube.com/embed/fmHUOmgW5lM" , length: "4:51", rating: 5, character: char94)
+Moment.create(name: "Hisoka Baits Illumi into Bloodlust", code: "https://www.youtube.com/embed/lQ1XP7Af4Ww"  , length: "3:13", rating: 5, character: char94)
+Moment.create(name: "Hisoka Meets Gon", code: "https://www.youtube.com/embed/uDb-AjZKKNI"  , length: "7:24", rating: 5, character: char94)
+
+
+#LEORIO
+
+Moment.create(name: "Leorio Punches Ging", code: "https://www.youtube.com/embed/LAnMMa_1jq8" , length: "2:40", rating: 5, character: char95)
+Moment.create(name: "Leorio Reunites with Gon", code: "https://www.youtube.com/embed/PeGhGWPA9oI" , length: "3:27", rating: 5, character: char95)
+Moment.create(name: "Leorio and Hisoka", code: "https://www.youtube.com/embed/b9v4XVBlOko" , length: "", rating: 5, character: char95)
+
+#CHROLLO
+
+Moment.create(name: "Chrollo vs Silva and Zeno", code: "https://www.youtube.com/embed/iakFmsgXzJI"  , length: "4:58", rating: 5, character: char96)
+Moment.create(name: "Chrollo Gets Captured", code: "https://www.youtube.com/embed/Tz-y3fTrVbo"  , length: "9:50", rating: 5, character: char96)
+Moment.create(name: "Chrollo vs Hisoka", code: "https://www.youtube.com/embed/1JdkenHzj2E" , length: "1:39", rating: 5, character: char96)
+Moment.create(name: "Chrollo's First Appearance", code: "https://www.youtube.com/embed/0MdXvDkdsYQ" , length: "2:14", rating: 5, character: char96)
+
+#MERUEM
+
+Moment.create(name: "Meruem vs Netero", code: "https://www.youtube.com/embed/qxBkH7Z6AsU"  , length: "10:49", rating: 5, character: char97)
+Moment.create(name: "Meruem is Born", code: "https://www.youtube.com/embed/9jiqcnwrsuk"  , length: "2:03", rating: 5, character: char97)
+Moment.create(name: "Meruem Empathizes with Welfin", code: "https://www.youtube.com/embed/fhlrMT0jFBQ" , length: "1:51", rating: 5, character: char97)
+Moment.create(name: "Meruem Regains his Memories", code: "https://www.youtube.com/embed/ns2saebl5jo"  , length: "10:01", rating: 5, character: char97)
+Moment.create(name: "Meruem Meets Komugi", code: "https://www.youtube.com/embed/wvrURTTO8yo" , length: "1:48", rating: 5, character: char97)
+
+#ILLUMI
+
+Moment.create(name: "Illumi Meets Hisoka", code: "https://www.youtube.com/embed/3ZqMPXswSKU"  , length: "2:11", rating: 5, character: char98)
+Moment.create(name: "Illumi and Hisoka's Bar Scene", code: "https://www.youtube.com/embed/xHDpFohyYfc" , length: "1:54", rating: 5, character: char98)
+Moment.create(name: "Illumi Teach Killua How to Assasainate", code: "https://www.youtube.com/embed/Mci9N8-riWU" , length: "1:13", rating: 5, character: char98)
+
+#FMA BROTHERHOOD
+
+#ED
+
+Moment.create(name: "Edward's Last Transmutatio", code: "https://www.youtube.com/embed/Uv_cQy0P5i0" , length: "4:54", rating: 5, character: char100)
+Moment.create(name: "Edward's State Alchemist Test", code: "https://www.youtube.com/embed/MzdRXA1uiNc"  , length: "1:44", rating: 5, character: char100)
+Moment.create(name: "Edward's Mercy", code: "https://www.youtube.com/embed/ZQN1n4zKaRU" , length: "3:45", rating: 5, character: char100)
+Moment.create(name: "Edward vs Colonel Mustang", code: "https://www.youtube.com/embed/ikowZCwmx-s" , length: "4:08", rating: 5, character: char100)
+Moment.create(name: "Edward vs Greed", code: "https://www.youtube.com/embed/ZZzwova0z_I" , length: "5:11", rating: 5, character: char100)
+
+#AL
+
+Moment.create(name: "Alphonse uses Philosopher's Stone", code: "https://www.youtube.com/embed/8JpCSPbPqEI" , length: "4:18", rating: 5, character: char101)
+Moment.create(name: "Alphonse's Sacrifice", code: "https://www.youtube.com/embed/DWPOYwrnlw4?list=TLPQMjQxMDIwMTmS-dS6LHAINg" , length: "3:13", rating: 5, character: char101)
+Moment.create(name: "Alphonse Finds His Body", code: "https://www.youtube.com/embed/y3bjsNCJ5sQ?list=TLPQMjQxMDIwMTmS-dS6LHAINg" , length: "4:02", rating: 5, character: char101)
+Moment.create(name: "Alphonse vs Pride and Kimblee", code: "https://www.youtube.com/embed/06CTubstJG8"  , length: "3:24", rating: 5, character: char101)
+Moment.create(name: "Alphonse and Ed vs Armstrong", code: "https://www.youtube.com/embed/FvECud2iQHc" , length: "2:34", rating: 5, character: char101)
+
+#MUSTANG
+
+Moment.create(name: "Mustang vs Edward", code: "https://www.youtube.com/embed/ikowZCwmx-s" , length: "4:08", rating: 5, character: )
+Moment.create(name: "Mustang vs Lust", code: "https://www.youtube.com/embed/AsQ_wETHM-M" , length: "2:59", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+
+#CODE GEASS
+
+# Nunnally
+Moment.create(name: "Lelouch Uses Geass on Nunnally", code: "https://www.youtube.com/embed/TlmfzyAiOm0" , length: "1:51", rating: 5, character: char195)
+Moment.create(name: "Nunnally Opens Her Eyes", code: "https://www.youtube.com/embed/p_PsNSlR2IQ", length: "0:40", rating: 5, character: char195)
+# Lelouch
+Moment.create(name: "Lelouch Death Code Geass", code: "https://www.youtube.com/embed/UElMxJTMT-c", length: "9:06", rating: 5, character: char191)
+Moment.create(name: "Lelouch's End", code: "https://www.youtube.com/embed/StcXp_hP0Ss", length: "7:06", rating: 5, character: char191)
+Moment.create(name: " Lelouch regains his memories", code: "https://www.youtube.com/embed/eXWViLB8EnU", length: "5:25", rating: 5, character: char191)
+# Kallen
+Moment.create(name: "Lelouch and Kallen Kiss", code: "https://www.youtube.com/embed/h-w0J9aqd_E", length: "9:06", rating: 5, character: char194)
+Moment.create(name: "Lelouch Uses Geass On Kallen", code: "https://www.youtube.com/embed/Bfgyr91rr9Y", length: "1:51", rating: 5, character: char194)
+Moment.create(name: "Kallen kicks Suzaku butt", code: "https://www.youtube.com/embed/6wuYUJfL8E4", length: "0:33", rating: 5, character: char194)
+# Suzaku
+Moment.create(name: "Suzaku Kururugi vs Bismarck Waldstein", code: "https://www.youtube.com/embed/AOUv7Sxfjzw", length: "2:12", rating: 5, character: char193)
+Moment.create(name: "Second Encounter - Lelouch & Suzaku", code: "https://www.youtube.com/embed/ORVJzCQc99E", length: "5:51", rating: 5, character: char193)
+Moment.create(name: "Suzaku Reunites With Lelouch And Nunnally", code: "https://www.youtube.com/embed/HmtQy-s-vPQ", length: "2:12", rating: 5, character: char193)
+# C.C
+Moment.create(name: "Lelouch x C.C. Moments", code: "https://www.youtube.com/embed/SGro7YXLObA", length: "5:13", rating: 5, character: char192)
+# ============================================================================================
+# Endeavor
+Moment.create(name: "Deku speaks with Endeavor", code: "https://www.youtube.com/embed/GcxqmbGnALg", length: "1:50", rating: 5, character: char88)
+Moment.create(name: "Endeavor saves All Might ", code: "https://www.youtube.com/embed/UImPZCZwTVY", length: "0:56", rating: 5, character: char88)
+# Best Jeanist
+Moment.create(name: "Best Jeanist VS All For One", code: "https://www.youtube.com/embed/lQJnRFkj8YA", length: "3:35", rating: 5, character: char87)
+# All for One
+Moment.create(name: "All for One ", code: "https://www.youtube.com/embed/CP6up7US6fA", length: "1:24", rating: 5, character: char86)
+Moment.create(name: "Truth about All for One and One for All", code: "https://www.youtube.com/embed/8ccaGB8nbOQ", length: "6:59", rating: 5, character: char86)
+# All Might
+Moment.create(name: "All Might vs. All For One", code: "https://www.youtube.com/embed/aP6DoGKZnAw", length: "11:57", rating: 5, character: char85)
+Moment.create(name: "All Might Rising", code: "https://www.youtube.com/embed/HiwA_iX6Mko", length: "2:24", rating: 5, character: char85)
+# Shoto Todoroki
+Moment.create(name: "Shoto Todoroki ", code: "https://www.youtube.com/embed/liHf7aVWqLc", length: "4:34", rating: 5, character: char84)
+Moment.create(name: "Endeavor & Todoroki - Father Son Moments!!", code: "https://www.youtube.com/embed/3L3Pi4LSC8c", length: "6:36", rating: 5, character: char84)
+# Bakugo
+Moment.create(name: "Midoriya vs Bakugou", code: "https://www.youtube.com/embed/ki43N-lK54c", length: "10:57", rating: 5, character: char83)
+Moment.create(name: "Bakugo vs Uraraka ", code: "https://www.youtube.com/embed/5bITyUsHWvU", length: "5:12", rating: 5, character: char83)
+# Iida
+Moment.create(name: "Iida's Rage Vs HeroKiller Stain!!", code: "https://www.youtube.com/embed/oXJ8f3LIIEM", length: "6:40", rating:5, char82)
+# Izuku Midoriya
+Moment.create(name: "Midoriya's Full Power vs Muscular", code: "https://www.youtube.com/embed/YEZ1mlnFOTw", length: "12:40", rating:5, char81)
+Moment.create(name: "Izuku Midoriya vs Camie Utsushimi ", code: "https://www.youtube.com/embed/PZF9DKfSfxc" , length: "7:40", rating:5, char81)
+# ========================================================================================================================================================================================
+# Yu-Gi-Oh 
+# Tristan
+Moment.create(name: "Tristan Funny Moments", code: "https://www.youtube.com/embed/Jfs8i5li1K8", length: "3:48", rating:5, char315)
+# Yami Yugi
+Moment.create(name: "Yami Yugi summons Black Luster Soldie", code: "https://www.youtube.com/embed/u0zunX6OC60", length: "2:40", rating:5, char310)
+Moment.create(name: "Yugioh Trivia: Dark Magician Archetype", code: "https://www.youtube.com/embed/pcGYK93FWD4", length: "29:40", rating:5, char310)
+Moment.create(name: "Yami Yugi comes out of his shell", code: "https://www.youtube.com/embed/VLVXTNJqcpY", length: "0:14", rating:5, char310)
+# Seto
+Moment.create(name: "Seto Kaiba VS Guns", code: "https://www.youtube.com/embed/vXOyVjD2X20", length: "5:10", rating:5, char311)
+Moment.create(name: "Seto Kaiba Random Stuff", code: "https://www.youtube.com/embed/IK6foE4DxOk", length: "4:39", rating:5, char311)
+Moment.create(name: "Seto Kaiba Owns Everyone", code: "https://www.youtube.com/embed/LOUZKjCKHgQ", length: "1:37", rating:5, char311)
+# Wheeler
+Moment.create(name: "Joey Wheeler x Mai", code: "https://www.youtube.com/embed/U4CvSnyqcUU", length: "5:15", rating: 5, char312)
+# Tea Garder
+Moment.create(name: "Tea Gardner - Let's Dancing", code: "https://www.youtube.com/embed/G0IEC40W4Nw", length: "1:18", rating: 5, char313)
+# Maximillion Pegasus
+Moment.create(name: "Pegasus VS Bakura", code: "https://www.youtube.com/embed/RDgXAbsp3L8", length: "3:13", rating:5, char314)
+Moment.create(name: "Maximillion Pegasus - Toon World", code: "https://www.youtube.com/embed/TabkjeN7H1A", length: "2:19", rating:5, char314)
+Moment.create(name: "Jaden Meet Pegasus", code: "https://www.youtube.com/embed/Cz9PWlHQSXY", length: "1:25", rating:5, char314)
+# =====================================================================================================================================
+# Afro
+Moment.create(name: "Afro Samurai: Afro vs Jinno", code: "https://www.youtube.com/embed/yAnDfxEgIqE", length: "8:40", rating: 5, char330)
+Moment.create(name: "Afro Samurai - first battle (massacre)", code: "https://www.youtube.com/embed/HykZmVBylrc", length: "4:39", rating: 5, char330)
+Moment.create(name: "Afro Samurai fights Justice", code: "https://www.youtube.com/embed/iWHAko58EO8", length: "11:39", rating: 5, char330)
+# Jinnosuke
+Moment.create(name: "Afro Samurai Jinno vs Afro's Father", code: "https://www.youtube.com/embed/teYSzQEwLac", length: "3:39", rating: 5, char332)
+# Najia Nagia
+Moment.create(name: "Afro Samurai: Resurrection - The Movie - Ninja ...", code: "https://www.youtube.com/embed/6LJVFHgkvig", length: "1:39", rating: 5, char331)
+# =====================================================================================================================================
+# moon
+Moment.create(name: "Sailor Moon vs Chaos", code: "https://www.youtube.com/embed/Obav9uywGg4", length: "10:47", rating: 5, char121)
+Moment.create(name: "Sailor Moon - Usagi and Mamoru battle", code: "https://www.youtube.com/embed/fgv4KWN9hSw", length: "8:52", rating: 5, char121)
+Moment.create(name: "Sailor Moon Opening (English) *HD*", code: "https://www.youtube.com/embed/5txHGxJRwtQ", length: "1:31", rating: 5, char121)
+# mars
+Moment.create(name: "Sailor Mars ~ All Transformations 1992-2014", code: "https://www.youtube.com/embed/GoFFGy5Hp6U", length: "1:38", rating: 5, char122)
+Moment.create(name: "Sailor Mars & Nanako DiCified", code: "https://www.youtube.com/embed/upyOQP6dFJA", length: "3:37", rating: 5, char122)
+Moment.create(name: "Sailor Mars ~ All attacks HD", code: "https://www.youtube.com/embed/InwEFBG6mYM", length: "2:57", rating: 5, char122)
+# mecury
+Moment.create(name: "Sailor Mercury death", code: "https://www.youtube.com/embed/ntTYnHWza7c", length: "3:24", rating: 5, char123)
+Moment.create(name: "sailor mercury attacks ", code: "https://www.youtube.com/embed/NaJUtGSYCDw", length: "3:12", rating: 5, char123)
+Moment.create(name: "Viluy Mosaic Buster Vs Sailor Mercury English", code: "https://www.youtube.com/embed/-oRnfvwPe_I", length: "1:35", rating: 5, char123)
+# Jupiter
+Moment.create(name: "sailor jupiter death", code: "https://www.youtube.com/embed/j9IeGchHJ_Q", length: "2:50", rating: 5, char126)
+Moment.create(name: "Jupiter arrives", code: "https://www.youtube.com/embed/dHcaJUCqQME", length: "2:05", rating: 5, char126)
+Moment.create(name: "Sailor Jupiter's Transformations", code: "https://www.youtube.com/embed/52Pt7NZA0NM", length: "2:06", rating: 5, char126)
+# mask
+Moment.create(name: "Tuxedo Mask at his finest", code: "https://www.youtube.com/embed/6BQwM7ixHVY", length: "0:23", rating: 5, char124)
+Moment.create(name: "Tuxedo Mask Transformation", code: "https://www.youtube.com/embed/UQFVSvXpd8o", length: "0:27", rating: 5, char124)
+Moment.create(name: "sailor moon Usagi and Mamoru scenes", code: "https://www.youtube.com/embed/sn74RtU7eXU", length: "2:29", rating: 5, char124)
+# Chibiusa
+Moment.create(name: "Sailor Moon R Official Dub Clip", code: "https://www.youtube.com/embed/ikHnmXtepgM", length: "2:19", rating: 5, char125)
+Moment.create(name: "chibiusa and usagi", code: "https://www.youtube.com/embed/gI7Hkstf8K8", length: "5:28", rating: 5, char125)
+
+
+
+
+
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "", code:  , length: "", rating: 5, character: )
+
+
 
 
 # =============================================================================
