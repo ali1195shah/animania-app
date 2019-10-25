@@ -1,10 +1,10 @@
-<p>Creator Show Page</p>
-
-<p>Biggest Anime <%=@creator.name%> made!</p>
+<h3><%=@creator.name%>'s Animes</h3>
 
 <ul>
     <%@creator.animes.each do |a|%>
-        <%=link_to a.name, anime_path(a)%>
+    <%=link_to a.name, anime_path(a)%>
+    <br>
+        <%=a.synopsis%>
         <br>
     <% end %>
 </ul>

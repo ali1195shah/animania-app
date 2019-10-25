@@ -1,8 +1,4 @@
-<p>Anime Show Page</p>
-
-
-<%=@anime.name%>
-<p> plot </p>
+<h3><%="#{@anime.name}'s Characters"%></h3>
 <ul>
     <%@anime.characters.each do |c|%>
         <%=link_to c.name, character_path(c)%>

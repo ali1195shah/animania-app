@@ -11,6 +11,8 @@ Rails.application.routes.draw do
   get "/login", to: "sessions#new", as: "login"
   post "/login", to: "sessions#create"
   post "/sessions/reset", to: "sessions#reset"
+  post "/animes", to: "animes#index"
+  post "/characters", to: "characters#index"
   delete "/logout", to: "sessions#destroy"
   
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html

@@ -4,19 +4,21 @@
     <title>AnimaniaApp</title>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
-  
+
 
   <body>
+
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light bg-light  nav-fill">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="#" id="redcolor"><%=link_to "Animania", genres_path%></a>
+    <a class="navbar-brand" href="#" id="redcolor"><%=link_to "Animania Beta", genres_path%></a>
 
     <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0 ">
@@ -42,7 +44,7 @@
     </ul>
     <%# <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>&nbsp&nbsp
     </form> %>
     <% if @current_user == nil %>
               <%= link_to "Sign Up", new_user_path, class: "item" %>&nbsp&nbsp

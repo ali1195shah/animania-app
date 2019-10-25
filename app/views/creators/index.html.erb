@@ -1,4 +1,4 @@
-<p>Creator Index Page</p>
+<h3>Anime Creators</h3>
 <ul class="list-group">
     <%@creators.each.uniq do |c|%>
         <li class="list-group-item"><%=link_to c.name, creator_path(c)%></li>

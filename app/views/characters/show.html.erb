@@ -1,16 +1,20 @@
-<p>Character Show Page</p>
-
-<p>wiki of <%=@character.name%></p>
+<h3><%=@character.name%></h3>
 <br>
 <%=@character.bio%>
+<br>
+<br>
+<% if @character.moments.count == 0 %>
+    <h4><%="Greatest Moments to Come Soon!"%></h4>
+<% else %>
+    <p>Here are the Moments for <%=@character.name%></p>
+    <ul>
+    <%@character.moments.each do |m|%>
+        <li>
+            <%=link_to m.name, moment_path(m)%>
+        </li>
+    <% end %>
+    <br>
+    <h4><%="More Great Moments to Come!"%></h4>
+    </ul>
 
-
-<p>Here are the Moments for <%=@character.name%></p>
-<ul>
-<%@character.moments.each do |m|%>
-    <li>
-        <%=link_to m.name, moment_path(m)%>
-    </li>
 <% end %>
-
-</ul>
