@@ -12,7 +12,7 @@ class SessionsController < ApplicationController
             session[:user_id] = @current_user.id
             redirect_to genres_path
         else
-            flash[:errors] = ["Try again bro!"]
+            flash[:errors] = ["Please Try Again"]
             redirect_to login_path
         end
     end

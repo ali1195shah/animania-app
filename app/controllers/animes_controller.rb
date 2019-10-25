@@ -1,7 +1,7 @@
 class AnimesController < ApplicationController
 
     def index
-        @animes = Anime.all
+        @animes = Anime.alpha
     end
 
     def show

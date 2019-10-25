@@ -408,7 +408,7 @@ char108 = Character.create(name: "Lust", bio: "Lust is a fairly tall and beautif
     ", anime: a11)
 char109 = Character.create(name: "Solf J. Kimelll", bio: "Solf J. Kimblee (ゾルフ・J・キンブリー, Zorufu J Kinburī, also spelled Zolf J. Kimbley), the Crimson Lotus Alchemist (紅蓮の錬金術師, Guren no Renkinjutsushi), sometimes referred to as the Crimson Alchemist, is a recurring antagonist in the Fullmetal Alchemist series. He is a former State Alchemist and special agent working under the direct orders of Führer King Bradley. Admittedly sadistic, Kimblee was imprisoned in Central City for several years after his official involvement in the Ishval Civil War for having infamously turned his unique brand of combustion-based combat alchemy on people who were not on his government-approved kill list. Due to conspiratorial acts at the top of government, Kimblee is officially exonerated of his crimes so as to serve as the Führer's hidden left hand in the secret battles to come. As a result of the schism between the storylines of the manga and the 2003 anime series, Kimblee appears prominently in both, but is a rather different character in each.
 ", anime: a11)
-char100 = Character.create(name: "Alex L. Armstrong", bio: "Major Alex Louis Armstrong (アレックス・ルイ・アームストロング, Arekkusu Rui Āmusutorongu?), also known as the Strong Arm Alchemist (豪腕の錬金術師, Gōwan no Renkinjutsushi), is a State Alchemist and officer in the Amestrian State Military. The scion of the illustrious Armstrong family, Alex is a remarkably caring commander and friend as well as an invaluably skilled ally to Colonel Roy Mustang and Edward Elric.
+char101 = Character.create(name: "Alex L. Armstrong", bio: "Major Alex Louis Armstrong (アレックス・ルイ・アームストロング, Arekkusu Rui Āmusutorongu?), also known as the Strong Arm Alchemist (豪腕の錬金術師, Gōwan no Renkinjutsushi), is a State Alchemist and officer in the Amestrian State Military. The scion of the illustrious Armstrong family, Alex is a remarkably caring commander and friend as well as an invaluably skilled ally to Colonel Roy Mustang and Edward Elric.
 ", anime: a11)
 
 char111 = Character.create(name: "Tatsumi", bio: "Tatsumi is the main protagonist of Akame Ga Kill!. A young fighter who had set out along with two childhood friends to make a name for himself and earn money for his village, Tatsumi is a kindhearted person who wants everyone to live happily, but has no problem with becoming violent if his friends or his ideals are threatened. After learning of the corruption and evil of the Empire and witnessing the deaths of his friends, Tatsumi was invited to join Night Raid, a group of assassins that are affiliated with the Revolutionary Army currently at war with the Empire. He eventually accepts the invitation and slowly begins to accept his new life and trade, while still grieving over the loss of his friends and beginning to learn about his new ones. He used to be the owner of the Teigu Incursio until he was fused with it and became a dragon. He had sworn to use this opportunity to take down the Empire in its entirety. He fought against the Emperor to finally bring down the corrupt empire that had caused people to suffer. At the end of the fight against Shikoutazer, Incursio's influence had increased drastically and Tatsumi was consumed. His body has become a dragon's, but his mind remains. He is, as described by the Revolutionary Army's doctor, the one who brought the end to an entire era.
@@ -713,6 +713,7 @@ char332 = Character.create(name: "jinnosuke", bio: "Jinnosuke (甚之助, Jin'no
 # ===========================================================================
 
 User.create(username: "ali", password: "bob")
+User.create(username: "oneil", password: "oneil")
 
 
 # ZORO 
@@ -726,7 +727,7 @@ Moment.create(name: "Zoro vs Admiral Fugitora", code: "https://www.youtube.com/e
 Moment.create(name: "Zoro vs Mihawk", code: "https://www.youtube.com/embed/BHarXdbRiBA", length: "3:17", rating: 5, character: char2)
 Moment.create(name: "Zoro Cuts Sea Train in Half", code: "https://www.youtube.com/embed/qkkJE-4oPi4", length: "2:36", rating: 5, character: char2)
 Moment.create(name: "Zoro’s Training", code: "https://www.youtube.com/embed/RHtWyWKgjUo", length: "2:59", rating: 5, character: char2)
-Moment.create(name: "Zoro Meets Luffy for the 1st Time", code: "https://www.youtube.com/embed/3fwLkDTRli5", length: "2:56", rating: 5, character: char2)
+Moment.create(name: "Zoro Meets Luffy for the 1st Time", code: "https://www.youtube.com/embed/3fwLkDTRli0", length: "2:56", rating: 5, character: char2)
 
 # ACE
 
@@ -1175,135 +1176,213 @@ Moment.create(name: "Edward vs Greed", code: "https://www.youtube.com/embed/ZZzw
 
 #AL
 
-Moment.create(name: "Alphonse uses Philosopher's Stone", code: "https://www.youtube.com/embed/8JpCSPbPqEI" , length: "4:18", rating: 5, character: char101)
-Moment.create(name: "Alphonse's Sacrifice", code: "https://www.youtube.com/embed/DWPOYwrnlw4?list=TLPQMjQxMDIwMTmS-dS6LHAINg" , length: "3:13", rating: 5, character: char101)
-Moment.create(name: "Alphonse Finds His Body", code: "https://www.youtube.com/embed/y3bjsNCJ5sQ?list=TLPQMjQxMDIwMTmS-dS6LHAINg" , length: "4:02", rating: 5, character: char101)
-Moment.create(name: "Alphonse vs Pride and Kimblee", code: "https://www.youtube.com/embed/06CTubstJG8"  , length: "3:24", rating: 5, character: char101)
-Moment.create(name: "Alphonse and Ed vs Armstrong", code: "https://www.youtube.com/embed/FvECud2iQHc" , length: "2:34", rating: 5, character: char101)
+Moment.create(name: "Alphonse uses Philosopher's Stone", code: "https://www.youtube.com/embed/8JpCSPbPqEI" , length: "4:18", rating: 5, character: char102)
+Moment.create(name: "Alphonse's Sacrifice", code: "https://www.youtube.com/embed/DWPOYwrnlw4?list=TLPQMjQxMDIwMTmS-dS6LHAINg" , length: "3:13", rating: 5, character: char102)
+Moment.create(name: "Alphonse Finds His Body", code: "https://www.youtube.com/embed/y3bjsNCJ5sQ?list=TLPQMjQxMDIwMTmS-dS6LHAINg" , length: "4:02", rating: 5, character: char102)
+Moment.create(name: "Alphonse vs Pride and Kimblee", code: "https://www.youtube.com/embed/06CTubstJG8"  , length: "3:24", rating: 5, character: char102)
+Moment.create(name: "Alphonse and Ed vs Armstrong", code: "https://www.youtube.com/embed/FvECud2iQHc" , length: "2:34", rating: 5, character: char102)
 
 #MUSTANG
 
-Moment.create(name: "Mustang vs Edward", code: "https://www.youtube.com/embed/ikowZCwmx-s" , length: "4:08", rating: 5, character: )
-Moment.create(name: "Mustang vs Lust", code: "https://www.youtube.com/embed/AsQ_wETHM-M" , length: "2:59", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
+Moment.create(name: "Mustang vs Edward", code: "https://www.youtube.com/embed/ikowZCwmx-s" , length: "4:08", rating: 5, character: char103)
+Moment.create(name: "Mustang vs Lust", code: "https://www.youtube.com/embed/AsQ_wETHM-M" , length: "2:59", rating: 5, character: char103)
+Moment.create(name: "Mustang at Maes' Funeral", code: "https://www.youtube.com/embed/oerctB47a1M"  , length: "1:07", rating: 5, character: char103)
+Moment.create(name: "Mustang vs Envy", code: "https://www.youtube.com/embed/_UHTE1oRXnA" , length: "1:59", rating: 5, character: char103)
+Moment.create(name: "Mustang Loses Eye Sight", code: "https://www.youtube.com/embed/sf78qYcsQwo" , length: "4:50", rating: 5, character: char103)
+
+#Ling
+
+Moment.create(name: "Ling/Greed vs Father", code: "https://www.youtube.com/embed/60as5quUKJQ?list=TLPQMjUxMDIwMTkE8IZ1Pmm6Mg"  , length: "4:46", rating: 5, character: char104)
+Moment.create(name: "Ling vs Greed", code: "https://www.youtube.com/embed/ZkkJ8WKp7jM" , length: "1:36", rating: 5, character: char104)
+Moment.create(name: "Ling Explains His History", code: "https://www.youtube.com/embed/K5tQXbWrRBI" , length: "2:46", rating: 5, character: char104)
+Moment.create(name: "Ling and Fuu vs King Bradley", code: "https://www.youtube.com/embed/iIBiQzr58yQ" , length: "4:21", rating: 5, character: char104)
+
+#SCAR
+
+Moment.create(name: "Scar vs Bradley", code: "https://www.youtube.com/embed/-BrFWHXbttM" , length: "7:26", rating: 5, character: char105)
+Moment.create(name: "Scar vs Kimblee", code: "https://www.youtube.com/embed/-8cnm9Iojig" , length: "4:52", rating: 5, character: char105)
+Moment.create(name: "Scar vs Ed and Al", code: "https://www.youtube.com/embed/tCtm9DrizEQ"  , length: "4:03", rating: 5, character: char105)
+Moment.create(name: "Scar vs Armstrong", code: "https://www.youtube.com/embed/8Mmv_zbR5n8"  , length: "2:03", rating: 5, character: char105)
+
+#KING BRADLEY
+
+
+Moment.create(name: "King Bradley vs Ling and Fuu", code: "https://www.youtube.com/embed/iIBiQzr58yQ" , length: "4:21", rating: 5, character: char106)
+Moment.create(name: "King Bradley vs A Tank", code: "https://www.youtube.com/embed/_FTya_31JUk"  , length: "3:44", rating: 5, character: char106)
+Moment.create(name: "King Bradley/Wrath's Creation", code: "https://www.youtube.com/embed/tn9_qmzJIlU" , length: "2:45", rating: 5, character: char106)
+Moment.create(name: "King Bradley vs the First Greed", code: "https://www.youtube.com/embed/ynBUeiB6Ras?list=TLPQMjUxMDIwMTkUpFA72yNNSQ"  , length: "5:51", rating: 5, character: char106)
+
+#GREED
+
+Moment.create(name: "Greed Regains His Memory", code: "https://www.youtube.com/embed/zz8g2lcfzU0?list=TLPQMjUxMDIwMTkUpFA72yNNSQ"  , length: "3:22", rating: 5, character: char107)
+Moment.create(name: "Fist Greed's Death", code: "https://www.youtube.com/embed/M1XJkiM1AFk" , length: "5:38", rating: 5, character: char107)
+Moment.create(name: "First Greed vs King Bradley", code: "https://www.youtube.com/embed/ynBUeiB6Ras?list=TLPQMjUxMDIwMTkUpFA72yNNSQ" , length: "5:31", rating: 5, character: char107)
+Moment.create(name: "Greed/Ling vs Father", code: "https://www.youtube.com/embed/60as5quUKJQ?list=TLPQMjUxMDIwMTkE8IZ1Pmm6Mg"  , length: "4:46", rating: 5, character: char107)
+
+#LUST
+
+Moment.create(name: "Lust vs Mustang", code: "https://www.youtube.com/embed/AsQ_wETHM-M" , length: "2:59", rating: 5, character: char108)
+Moment.create(name: "Lust Remembers", code: "https://www.youtube.com/embed/19NR76l3jSg"  , length: "6:19", rating: 5, character: char108)
+Moment.create(name: "Beautiful Lust", code: "https://www.youtube.com/embed/iOzGp8tLmSo" , length: "4:48", rating: 5, character: char108)
+
+#KIMBLEE
+
+Moment.create(name: "Kimblee vs Ed", code: "https://www.youtube.com/embed/MYfCu6lIwqU"  , length: "2:57", rating: 5, character: char109)
+Moment.create(name: "Kimblee vs Scar", code: "https://www.youtube.com/embed/gLqW9DEQHHI" , length: "6:00", rating: 5, character: char109)
+Moment.create(name: "Kimblee Debates Al", code: "https://www.youtube.com/embed/-GpmOVBCUlQ" , length: "1:48", rating: 5, character: char109)
+Moment.create(name: "Kimblee's Speech in Ishval", code: "https://www.youtube.com/embed/7IWcOKVJ1E4" , length: "1:15", rating: 5, character: char109)
+
+#ARMSTRONG
+
+Moment.create(name: "Alex and Curtis vs Sloth", code: "https://www.youtube.com/embed/GHNWGXOmQZY" , length: "3:51", rating: 5, character: char101)
+Moment.create(name: "Alex Armstrong vs Olvia Armstrong", code: "https://www.youtube.com/embed/3VUmrhc08LA" , length: "2:46", rating: 5, character: char101)
+Moment.create(name: "Alex Armstrong vs Roa", code: "https://www.youtube.com/embed/hjNiLxqSsHk" , length: "1:55", rating: 5, character: char101)
+Moment.create(name: "Alex Armstrong vs Ed and Al", code: "https://www.youtube.com/embed/FvECud2iQHc" , length: "2:34", rating: 5, character: char101)
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+
+
 
 #CODE GEASS
 
 # Nunnally
 Moment.create(name: "Lelouch Uses Geass on Nunnally", code: "https://www.youtube.com/embed/TlmfzyAiOm0" , length: "1:51", rating: 5, character: char195)
 Moment.create(name: "Nunnally Opens Her Eyes", code: "https://www.youtube.com/embed/p_PsNSlR2IQ", length: "0:40", rating: 5, character: char195)
+
 # Lelouch
 Moment.create(name: "Lelouch Death Code Geass", code: "https://www.youtube.com/embed/UElMxJTMT-c", length: "9:06", rating: 5, character: char191)
 Moment.create(name: "Lelouch's End", code: "https://www.youtube.com/embed/StcXp_hP0Ss", length: "7:06", rating: 5, character: char191)
-Moment.create(name: " Lelouch regains his memories", code: "https://www.youtube.com/embed/eXWViLB8EnU", length: "5:25", rating: 5, character: char191)
+Moment.create(name: "Lelouch regains his memories", code: "https://www.youtube.com/embed/eXWViLB8EnU", length: "5:25", rating: 5, character: char191)
+
 # Kallen
 Moment.create(name: "Lelouch and Kallen Kiss", code: "https://www.youtube.com/embed/h-w0J9aqd_E", length: "9:06", rating: 5, character: char194)
 Moment.create(name: "Lelouch Uses Geass On Kallen", code: "https://www.youtube.com/embed/Bfgyr91rr9Y", length: "1:51", rating: 5, character: char194)
 Moment.create(name: "Kallen kicks Suzaku butt", code: "https://www.youtube.com/embed/6wuYUJfL8E4", length: "0:33", rating: 5, character: char194)
+
 # Suzaku
 Moment.create(name: "Suzaku Kururugi vs Bismarck Waldstein", code: "https://www.youtube.com/embed/AOUv7Sxfjzw", length: "2:12", rating: 5, character: char193)
 Moment.create(name: "Second Encounter - Lelouch & Suzaku", code: "https://www.youtube.com/embed/ORVJzCQc99E", length: "5:51", rating: 5, character: char193)
 Moment.create(name: "Suzaku Reunites With Lelouch And Nunnally", code: "https://www.youtube.com/embed/HmtQy-s-vPQ", length: "2:12", rating: 5, character: char193)
+
 # C.C
 Moment.create(name: "Lelouch x C.C. Moments", code: "https://www.youtube.com/embed/SGro7YXLObA", length: "5:13", rating: 5, character: char192)
 # ============================================================================================
+
 # Endeavor
 Moment.create(name: "Deku speaks with Endeavor", code: "https://www.youtube.com/embed/GcxqmbGnALg", length: "1:50", rating: 5, character: char88)
 Moment.create(name: "Endeavor saves All Might ", code: "https://www.youtube.com/embed/UImPZCZwTVY", length: "0:56", rating: 5, character: char88)
+
 # Best Jeanist
 Moment.create(name: "Best Jeanist VS All For One", code: "https://www.youtube.com/embed/lQJnRFkj8YA", length: "3:35", rating: 5, character: char87)
+
 # All for One
 Moment.create(name: "All for One ", code: "https://www.youtube.com/embed/CP6up7US6fA", length: "1:24", rating: 5, character: char86)
 Moment.create(name: "Truth about All for One and One for All", code: "https://www.youtube.com/embed/8ccaGB8nbOQ", length: "6:59", rating: 5, character: char86)
+
 # All Might
 Moment.create(name: "All Might vs. All For One", code: "https://www.youtube.com/embed/aP6DoGKZnAw", length: "11:57", rating: 5, character: char85)
 Moment.create(name: "All Might Rising", code: "https://www.youtube.com/embed/HiwA_iX6Mko", length: "2:24", rating: 5, character: char85)
+
 # Shoto Todoroki
 Moment.create(name: "Shoto Todoroki ", code: "https://www.youtube.com/embed/liHf7aVWqLc", length: "4:34", rating: 5, character: char84)
 Moment.create(name: "Endeavor & Todoroki - Father Son Moments!!", code: "https://www.youtube.com/embed/3L3Pi4LSC8c", length: "6:36", rating: 5, character: char84)
+
 # Bakugo
 Moment.create(name: "Midoriya vs Bakugou", code: "https://www.youtube.com/embed/ki43N-lK54c", length: "10:57", rating: 5, character: char83)
 Moment.create(name: "Bakugo vs Uraraka ", code: "https://www.youtube.com/embed/5bITyUsHWvU", length: "5:12", rating: 5, character: char83)
+
 # Iida
-Moment.create(name: "Iida's Rage Vs HeroKiller Stain!!", code: "https://www.youtube.com/embed/oXJ8f3LIIEM", length: "6:40", rating:5, char82)
+Moment.create(name: "Iida's Rage Vs HeroKiller Stain!!", code: "https://www.youtube.com/embed/oXJ8f3LIIEM", length: "6:40", rating:5, character: char82)
+
 # Izuku Midoriya
-Moment.create(name: "Midoriya's Full Power vs Muscular", code: "https://www.youtube.com/embed/YEZ1mlnFOTw", length: "12:40", rating:5, char81)
-Moment.create(name: "Izuku Midoriya vs Camie Utsushimi ", code: "https://www.youtube.com/embed/PZF9DKfSfxc" , length: "7:40", rating:5, char81)
+Moment.create(name: "Midoriya's Full Power vs Muscular", code: "https://www.youtube.com/embed/YEZ1mlnFOTw", length: "12:40", rating:5, character: char81)
+Moment.create(name: "Izuku Midoriya vs Camie Utsushimi ", code: "https://www.youtube.com/embed/PZF9DKfSfxc" , length: "7:40", rating:5, character: char81)
 # ========================================================================================================================================================================================
 # Yu-Gi-Oh 
 # Tristan
-Moment.create(name: "Tristan Funny Moments", code: "https://www.youtube.com/embed/Jfs8i5li1K8", length: "3:48", rating:5, char315)
+Moment.create(name: "Tristan Funny Moments", code: "https://www.youtube.com/embed/Jfs8i5li1K8", length: "3:48", rating:5, character: char315)
 # Yami Yugi
-Moment.create(name: "Yami Yugi summons Black Luster Soldie", code: "https://www.youtube.com/embed/u0zunX6OC60", length: "2:40", rating:5, char310)
-Moment.create(name: "Yugioh Trivia: Dark Magician Archetype", code: "https://www.youtube.com/embed/pcGYK93FWD4", length: "29:40", rating:5, char310)
-Moment.create(name: "Yami Yugi comes out of his shell", code: "https://www.youtube.com/embed/VLVXTNJqcpY", length: "0:14", rating:5, char310)
+Moment.create(name: "Yami Yugi summons Black Luster Soldie", code: "https://www.youtube.com/embed/u0zunX6OC60", length: "2:40", rating:5, character: char310)
+Moment.create(name: "Yugioh Trivia: Dark Magician Archetype", code: "https://www.youtube.com/embed/pcGYK93FWD4", length: "29:40", rating:5, character: char310)
+Moment.create(name: "Yami Yugi comes out of his shell", code: "https://www.youtube.com/embed/VLVXTNJqcpY", length: "0:14", rating:5, character: char310)
 # Seto
-Moment.create(name: "Seto Kaiba VS Guns", code: "https://www.youtube.com/embed/vXOyVjD2X20", length: "5:10", rating:5, char311)
-Moment.create(name: "Seto Kaiba Random Stuff", code: "https://www.youtube.com/embed/IK6foE4DxOk", length: "4:39", rating:5, char311)
-Moment.create(name: "Seto Kaiba Owns Everyone", code: "https://www.youtube.com/embed/LOUZKjCKHgQ", length: "1:37", rating:5, char311)
+Moment.create(name: "Seto Kaiba VS Guns", code: "https://www.youtube.com/embed/vXOyVjD2X20", length: "5:10", rating:5, character: char311)
+Moment.create(name: "Seto Kaiba Random Stuff", code: "https://www.youtube.com/embed/IK6foE4DxOk", length: "4:39", rating:5, character: char311)
+Moment.create(name: "Seto Kaiba Owns Everyone", code: "https://www.youtube.com/embed/LOUZKjCKHgQ", length: "1:37", rating:5, character: char311)
 # Wheeler
-Moment.create(name: "Joey Wheeler x Mai", code: "https://www.youtube.com/embed/U4CvSnyqcUU", length: "5:15", rating: 5, char312)
+Moment.create(name: "Joey Wheeler x Mai", code: "https://www.youtube.com/embed/U4CvSnyqcUU", length: "5:15", rating: 5, character: char312)
 # Tea Garder
-Moment.create(name: "Tea Gardner - Let's Dancing", code: "https://www.youtube.com/embed/G0IEC40W4Nw", length: "1:18", rating: 5, char313)
+Moment.create(name: "Tea Gardner - Let's Dancing", code: "https://www.youtube.com/embed/G0IEC40W4Nw", length: "1:18", rating: 5, character: char313)
 # Maximillion Pegasus
-Moment.create(name: "Pegasus VS Bakura", code: "https://www.youtube.com/embed/RDgXAbsp3L8", length: "3:13", rating:5, char314)
-Moment.create(name: "Maximillion Pegasus - Toon World", code: "https://www.youtube.com/embed/TabkjeN7H1A", length: "2:19", rating:5, char314)
-Moment.create(name: "Jaden Meet Pegasus", code: "https://www.youtube.com/embed/Cz9PWlHQSXY", length: "1:25", rating:5, char314)
+Moment.create(name: "Pegasus VS Bakura", code: "https://www.youtube.com/embed/RDgXAbsp3L8", length: "3:13", rating:5, character: char314)
+Moment.create(name: "Maximillion Pegasus - Toon World", code: "https://www.youtube.com/embed/TabkjeN7H1A", length: "2:19", rating:5, character: char314)
+Moment.create(name: "Jaden Meet Pegasus", code: "https://www.youtube.com/embed/Cz9PWlHQSXY", length: "1:25", rating:5, character: char314)
 # =====================================================================================================================================
 # Afro
-Moment.create(name: "Afro Samurai: Afro vs Jinno", code: "https://www.youtube.com/embed/yAnDfxEgIqE", length: "8:40", rating: 5, char330)
-Moment.create(name: "Afro Samurai - first battle (massacre)", code: "https://www.youtube.com/embed/HykZmVBylrc", length: "4:39", rating: 5, char330)
-Moment.create(name: "Afro Samurai fights Justice", code: "https://www.youtube.com/embed/iWHAko58EO8", length: "11:39", rating: 5, char330)
+Moment.create(name: "Afro Samurai: Afro vs Jinno", code: "https://www.youtube.com/embed/yAnDfxEgIqE", length: "8:40", rating: 5, character: char330)
+Moment.create(name: "Afro Samurai - first battle (massacre)", code: "https://www.youtube.com/embed/HykZmVBylrc", length: "4:39", rating: 5, character: char330)
+Moment.create(name: "Afro Samurai fights Justice", code: "https://www.youtube.com/embed/iWHAko58EO8", length: "11:39", rating: 5, character: char330)
 # Jinnosuke
-Moment.create(name: "Afro Samurai Jinno vs Afro's Father", code: "https://www.youtube.com/embed/teYSzQEwLac", length: "3:39", rating: 5, char332)
+Moment.create(name: "Afro Samurai Jinno vs Afro's Father", code: "https://www.youtube.com/embed/teYSzQEwLac", length: "3:39", rating: 5, character: char332)
 # Najia Nagia
-Moment.create(name: "Afro Samurai: Resurrection - The Movie - Ninja ...", code: "https://www.youtube.com/embed/6LJVFHgkvig", length: "1:39", rating: 5, char331)
+Moment.create(name: "Afro Samurai: Resurrection - The Movie - Ninja ...", code: "https://www.youtube.com/embed/6LJVFHgkvig", length: "1:39", rating: 5, character: char331)
 # =====================================================================================================================================
 # moon
-Moment.create(name: "Sailor Moon vs Chaos", code: "https://www.youtube.com/embed/Obav9uywGg4", length: "10:47", rating: 5, char121)
-Moment.create(name: "Sailor Moon - Usagi and Mamoru battle", code: "https://www.youtube.com/embed/fgv4KWN9hSw", length: "8:52", rating: 5, char121)
-Moment.create(name: "Sailor Moon Opening (English) *HD*", code: "https://www.youtube.com/embed/5txHGxJRwtQ", length: "1:31", rating: 5, char121)
+Moment.create(name: "Sailor Moon vs Chaos", code: "https://www.youtube.com/embed/Obav9uywGg4", length: "10:47", rating: 5, character: char121)
+Moment.create(name: "Sailor Moon - Usagi and Mamoru battle", code: "https://www.youtube.com/embed/fgv4KWN9hSw", length: "8:52", rating: 5, character: char121)
+Moment.create(name: "Sailor Moon Opening (English) *HD*", code: "https://www.youtube.com/embed/5txHGxJRwtQ", length: "1:31", rating: 5, character: char121)
 # mars
-Moment.create(name: "Sailor Mars ~ All Transformations 1992-2014", code: "https://www.youtube.com/embed/GoFFGy5Hp6U", length: "1:38", rating: 5, char122)
-Moment.create(name: "Sailor Mars & Nanako DiCified", code: "https://www.youtube.com/embed/upyOQP6dFJA", length: "3:37", rating: 5, char122)
-Moment.create(name: "Sailor Mars ~ All attacks HD", code: "https://www.youtube.com/embed/InwEFBG6mYM", length: "2:57", rating: 5, char122)
+Moment.create(name: "Sailor Mars ~ All Transformations 1992-2014", code: "https://www.youtube.com/embed/GoFFGy5Hp6U", length: "1:38", rating: 5, character: char122)
+Moment.create(name: "Sailor Mars & Nanako DiCified", code: "https://www.youtube.com/embed/upyOQP6dFJA", length: "3:37", rating: 5, character: char122)
+Moment.create(name: "Sailor Mars ~ All attacks HD", code: "https://www.youtube.com/embed/InwEFBG6mYM", length: "2:57", rating: 5, character: char122)
 # mecury
-Moment.create(name: "Sailor Mercury death", code: "https://www.youtube.com/embed/ntTYnHWza7c", length: "3:24", rating: 5, char123)
-Moment.create(name: "sailor mercury attacks ", code: "https://www.youtube.com/embed/NaJUtGSYCDw", length: "3:12", rating: 5, char123)
-Moment.create(name: "Viluy Mosaic Buster Vs Sailor Mercury English", code: "https://www.youtube.com/embed/-oRnfvwPe_I", length: "1:35", rating: 5, char123)
+Moment.create(name: "Sailor Mercury death", code: "https://www.youtube.com/embed/ntTYnHWza7c", length: "3:24", rating: 5, character: char123)
+Moment.create(name: "Sailor mercury attacks ", code: "https://www.youtube.com/embed/NaJUtGSYCDw", length: "3:12", rating: 5, character: char123)
+Moment.create(name: "Viluy Mosaic Buster Vs Sailor Mercury English", code: "https://www.youtube.com/embed/-oRnfvwPe_I", length: "1:35", rating: 5, character: char123)
 # Jupiter
-Moment.create(name: "sailor jupiter death", code: "https://www.youtube.com/embed/j9IeGchHJ_Q", length: "2:50", rating: 5, char126)
-Moment.create(name: "Jupiter arrives", code: "https://www.youtube.com/embed/dHcaJUCqQME", length: "2:05", rating: 5, char126)
-Moment.create(name: "Sailor Jupiter's Transformations", code: "https://www.youtube.com/embed/52Pt7NZA0NM", length: "2:06", rating: 5, char126)
+Moment.create(name: "Sailor jupiter death", code: "https://www.youtube.com/embed/j9IeGchHJ_Q", length: "2:50", rating: 5, character: char126)
+Moment.create(name: "Jupiter arrives", code: "https://www.youtube.com/embed/dHcaJUCqQME", length: "2:05", rating: 5, character: char126)
+Moment.create(name: "Sailor Jupiter's Transformations", code: "https://www.youtube.com/embed/52Pt7NZA0NM", length: "2:06", rating: 5, character: char126)
 # mask
-Moment.create(name: "Tuxedo Mask at his finest", code: "https://www.youtube.com/embed/6BQwM7ixHVY", length: "0:23", rating: 5, char124)
-Moment.create(name: "Tuxedo Mask Transformation", code: "https://www.youtube.com/embed/UQFVSvXpd8o", length: "0:27", rating: 5, char124)
-Moment.create(name: "sailor moon Usagi and Mamoru scenes", code: "https://www.youtube.com/embed/sn74RtU7eXU", length: "2:29", rating: 5, char124)
+Moment.create(name: "Tuxedo Mask at his finest", code: "https://www.youtube.com/embed/6BQwM7ixHVY", length: "0:23", rating: 5, character: char124)
+Moment.create(name: "Tuxedo Mask Transformation", code: "https://www.youtube.com/embed/UQFVSvXpd8o", length: "0:27", rating: 5, character: char124)
+Moment.create(name: "Sailor moon Usagi and Mamoru scenes", code: "https://www.youtube.com/embed/sn74RtU7eXU", length: "2:29", rating: 5, character: char124)
 # Chibiusa
-Moment.create(name: "Sailor Moon R Official Dub Clip", code: "https://www.youtube.com/embed/ikHnmXtepgM", length: "2:19", rating: 5, char125)
-Moment.create(name: "chibiusa and usagi", code: "https://www.youtube.com/embed/gI7Hkstf8K8", length: "5:28", rating: 5, char125)
+Moment.create(name: "Sailor Moon R Official Dub Clip", code: "https://www.youtube.com/embed/ikHnmXtepgM", length: "2:19", rating: 5, character: char125)
+Moment.create(name: "Chibiusa and Usagi", code: "https://www.youtube.com/embed/gI7Hkstf8K8", length: "5:28", rating: 5, character: char125)
 
 
 
 
 
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
-Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
+# Moment.create(name: "", code:  , length: "", rating: 5, character: )
 
 
 

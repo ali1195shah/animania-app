@@ -1,7 +1,7 @@
 class MomentsController < ApplicationController
 
     def index
-        @moments = Moment.all
+        @moments = Moment.alpha
     end
 
     def show
